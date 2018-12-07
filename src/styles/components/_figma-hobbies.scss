@@ -1,0 +1,409 @@
+/* image */
+.paper-plane {
+  position: absolute;
+  width: 152px;
+  height: 123px;
+  left: 564px;
+  top: 22px;
+
+  //background: url(image.png);
+  mix-blend-mode: multiply;
+}
+
+/* Now for the fun part! Time to talk about your interests and hobbies... */
+.hobbies-header {
+  position: absolute;
+  width: 577px;
+  height: 24px;
+  left: 351px;
+  top: 133px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 24px;
+  text-align: center;
+
+  color: #000000;
+}
+
+/* Book */
+.book-logo {
+  position: absolute;
+  width: 103px;
+  height: 61px;
+  left: 307px;
+  top: 164px;
+
+  //box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* Hockey */
+.hockey-logo {
+  position: absolute;
+  width: 73px;
+  height: 151px;
+  left: 43px;
+  top: 117px;
+
+  //box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* American Football */
+.american-football-logo {
+  position: absolute;
+  width: 143.69px;
+  height: 68.04px;
+  left: 22px;
+  top: 448px;
+
+  //box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+/* Video Game */
+.video-game-logo {
+  position: absolute;
+  width: 219.21px;
+  height: 124.01px;
+  left: 32.04px;
+  top: 563.99px;
+
+  //box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+
+/*
+!* Group *!
+
+position: absolute;
+width: 96px;
+height: 93px;
+left: 41px;
+top: 595px;
+*/
+
+/* Stamps */
+.stamps-logo {
+  position: absolute;
+  width: 80px;
+  height: 79px;
+  left: 923px;
+  top: 319px;
+
+  //box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+/* Group */
+.chess-logo {
+  position: absolute;
+  width: 162px;
+  height: 162px;
+  left: 1083px;
+  top: 493px;
+
+  //box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+
+/* Rectangle */
+.answer-border {
+  position: absolute;
+  width: 428px;
+  height: 396px;
+  left: 425px;
+  top: 175px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: #000000;
+
+  border: 1px solid #F1EAEA;
+  box-sizing: border-box;
+  border-radius: 2px;
+}
+
+/* Choose 3 of your favorite type of hobbies */
+.answer-border-header {
+  position: absolute;
+  width: 337px;
+  height: 22px;
+  left: 37px;
+  top: 19px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: #000000;
+
+}
+
+
+/* input-1*/
+.hobbies-input1 {
+  position: absolute;
+  width: 358px;
+  height: 45px;
+  left: 462px;
+  top: 272px;
+
+  background: #F3F3F3;
+  border-radius: 30px;
+}
+
+/* Rectangle 4.1 */
+.hobbies-input2 {
+  position: absolute;
+  width: 358px;
+  height: 45px;
+  left: 460px;
+  top: 350px;
+
+  background: #F3F3F3;
+  border-radius: 30px;
+}
+
+/* Rectangle 4.2 */
+.hobbies-input3 {
+  position: absolute;
+  width: 358px;
+  height: 45px;
+  left: 460px;
+  top: 428px;
+
+  background: #F3F3F3;
+  border-radius: 30px;
+}
+
+/* Rectangle 2.9 */
+.hobbies-button {
+  position: absolute;
+  width: 96px;
+  height: 26px;
+  left: 591px;
+  top: 558px;
+
+  //background: #DD417C;
+  //box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+  background-color: white;
+  color: deeppink;
+  border: 1.5px solid deeppink;
+
+  border-radius: 4px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+
+}
+
+.hobbies-button:hover {
+  background-color: deeppink;
+  color: white;
+}
+
+
+/* Component */
+.observational {
+  position: absolute;
+  width: 197px;
+  height: 149px;
+  left: 117px;
+  top: 59px;
+}
+
+/* Group 10 */
+.creative {
+  position: absolute;
+  width: 197px;
+  height: 149px;
+  left: 223px;
+  top: 219px;
+}
+
+
+
+/* Rectangle 4 */
+.hobbies-input1-green {
+  position: absolute;
+  width: 358px;
+  height: 45px;
+  left: 462px;
+  top: 272px;
+
+  background: #0CE8D4;
+  //box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 30px;
+}
+
+/* Rectangle 4.1 */
+.hobbies-input2-green {
+  position: absolute;
+  width: 358px;
+  height: 45px;
+  left: 460px;
+  top: 350px;
+
+  background: #0CE8D4;
+  //box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 30px;
+}
+
+/* Rectangle 4.2 */
+.hobbies-input3-green {
+  position: absolute;
+  width: 358px;
+  height: 45px;
+  left: 460px;
+  top: 428px;
+
+  background: #0CE8D4;
+  //box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 30px;
+}
+
+.hobbies-text-1{
+  left: 40px;
+  top: 15px;
+  width: 50px;
+
+  font-family: Reenie Beanie, serif;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 32px;
+  text-align: center;
+}
+
+/* Group 11 */
+.sports {
+  position: absolute;
+  width: 197px;
+  height: 149px;
+  left: 15px;
+  top: 270px;
+
+  //box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.technology-text {
+  position: absolute;
+  width: 120px;
+  height: 30px;
+  left: 225px;
+  top: 435px;
+
+  font-family: Reenie Beanie, serif;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 32px;
+  text-align: center;
+}
+
+
+/* Component */
+.technology {
+  position: absolute;
+  width: 197px;
+  height: 149px;
+  left: 198px;
+  top: 416px;
+}
+
+
+/* Group 8 */
+.health {
+  position: absolute;
+  width: 197px;
+  height: 149px;
+  left: 1079px;
+  top: 83px;
+}
+
+.outdoor-text {
+  position: absolute;
+  width: 100px;
+  height: 30px;
+  left: 910px;
+  top: 170px;
+
+  font-family: Reenie Beanie, serif;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 32px;
+  text-align: center;
+}
+
+/* Component */
+.outdoor {
+  position: absolute;
+  width: 197px;
+  height: 149px;
+  left: 873px;
+  top: 148px;
+}
+
+
+/* Group 7 */
+.collection {
+  position: absolute;
+  width: 197px;
+  height: 149px;
+  left: 1073px;
+  top: 291px;
+}
+
+/* Group 6 */
+.indoor {
+  position: absolute;
+  width: 197px;
+  height: 149px;
+  left: 870px;
+  top: 398px;
+}
+
+/* Group 4.1 */
+.hobbies-bottom-navbar {
+  position: absolute;
+  width: 716.94px;
+  height: 106px;
+  left: 284px;
+  top: 600px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

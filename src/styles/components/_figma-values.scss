@@ -1,0 +1,288 @@
+/* image */
+.icecream-logo {
+  position: absolute;
+  width: 172.4px;
+  height: 198.4px;
+  left: 552.5px;
+  top: -27.61px;
+
+  //background: url(image.png);
+  //transform: rotate(51.27deg);
+}
+
+/* Tell us more about your preferences and values... */
+.values-border-header {
+  position: absolute;
+  width: 402px;
+  height: 24px;
+  left: 438px;
+  top: 133px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 24px;
+  text-align: center;
+
+  color: #000000;
+}
+
+
+
+/* Rectangle */
+.values-border {
+  position: absolute;
+  width: 841px;
+  height: 350px;
+  left: 230px;
+  top: 175px;
+
+  border: 1px solid #F1EAEA;
+  box-sizing: border-box;
+  border-radius: 2px;
+}
+
+/* Where do you stand on each of the following scales? */
+.values-inner-border-header {
+  position: absolute;
+  width: 280px;
+  height: 15px;
+  left: 495px;
+  top: 196px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 12px;
+
+  color: #000000;
+}
+
+
+/* Line */
+.values-slider-1 {
+  position: absolute;
+  width: 569.01px;
+  height: 0px;
+  left: 359px;
+  top: 231px;
+
+  //border: 0.75px solid #C4C3C3;
+}
+
+/* Line */
+.values-slider-2 {
+  position: absolute;
+  width: 569.01px;
+  height: 0px;
+  left: 359px;
+  top: 287px;
+
+  //border: 0.75px solid #C4C3C3;
+}
+
+
+/* Line */
+.values-slider-3 {
+  position: absolute;
+  width: 569.01px;
+  height: 0px;
+  left: 359px;
+  top: 347px; //362.55px;
+
+  //border: 0.75px solid #C4C3C3;
+}
+
+/* Line */
+.values-slider-3-new {
+  position: absolute;
+  width: 569.01px;
+  height: 0px;
+  left: 359px;
+  top: 550px;//362.55px;
+}
+
+
+
+/* Line */
+.values-slider-4 {
+  position: absolute;
+  width: 569.01px;
+  height: 0px;
+  left: 359px;
+  top: 405.55px;
+
+  //border: 0.75px solid #C4C3C3;
+}
+
+/* Line */
+.values-slider-5 {
+  position: absolute;
+  width: 569.01px;
+  height: 0px;
+  left: 359px;
+  top: 461.55px;
+
+  //border: 0.75px solid #C4C3C3;
+}
+
+
+/* Rearrange the blocks below according to your Values */
+.values-text-above-list {
+  position: absolute;
+  width: 285px;
+  height: 15px;
+  left: 504px;
+  top: 572px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 12px;
+
+  color: #000000;
+}
+
+
+
+
+
+.values-priority-list {
+  position: absolute;
+  width: 569.01px;
+  height: 0px;
+  left: 359px;
+  top: 600px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  //border: 0.75px solid #C4C3C3;
+}
+
+/* Rectangle 2.7 */
+.values-button {
+  position: absolute;
+  width: 96px;
+  height: 26px;
+  left: 592px;
+  top: 1060px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+  background-color: white;
+  color: deeppink;
+  border: 1.5px solid deeppink;
+
+  border-radius: 4px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+.values-button:hover {
+  background-color: deeppink;
+  color: white;
+}
+
+
+
+
+/* Group 6 */
+.values-money-bag {
+  position: absolute;
+  width: 149px;
+  height: 229px;
+  left: 155px;
+  top: 710px;
+}
+
+
+/*!* Screen Shot 2018-11-05 at 11.46 *!
+
+position: absolute;
+width: 7px;
+height: 7px;
+left: 996px;
+top: 889px;
+
+background: url(Screen Shot 2018-11-05 at 11.36.png);*/
+
+
+/* Group 5 */
+.values-boy-super-hero {
+  position: absolute;
+  width: 196px;
+  height: 304px;
+  left: 941px;
+  top: 676px;
+}
+
+
+
+
+/*
+!* Rectangle 2.6 *!
+
+position: absolute;
+width: 367px;
+height: 40px;
+left: 457px;
+top: 690px;
+
+border: 0.5px solid #C4C3C3;
+box-sizing: border-box;
+border-radius: 2px;
+*/
+
+
+
+
+
+/* 1. */
+.values-list-numbers {
+  position: absolute;
+  width: 20px;
+  height: 430px;
+  left: 429px;
+  top: 590px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 45px;
+
+  color: #FFD600;
+}
+
+
+/* Group 4.1 */
+.values-bottom-navbar {
+  position: absolute;
+  width: 716.94px;
+  height: 102px;
+  left: 282px;
+  top: 1107px;
+}
+
+
+
+
+
+
+
+
+
+

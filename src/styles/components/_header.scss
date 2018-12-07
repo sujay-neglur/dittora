@@ -1,0 +1,32 @@
+.header {
+  //background: $off-black;
+  color: blue;
+  margin-top: $xl-size;
+  margin-bottom: $xl-size;
+  padding: $m-size 0;
+  align-items: center;
+}
+
+.header__title{
+  font-size: $l-size;
+  margin-bottom: $s-size;
+  text-align: center;
+}
+
+.header__subtitle{
+  color: $full-black;
+  font-size: $s-size;
+  font-weight: 200;
+  margin: 0;
+  font-style: italic;
+  text-align: center;
+}
+
+.header__subtitle2{
+  color: $full-black;
+  font-size: $s-size;
+  font-weight: 800;
+  margin-top: $s-size;
+  font-style: italic;
+  text-align: center;
+}

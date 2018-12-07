@@ -1,0 +1,596 @@
+/* Now for the fun part! Time to talk about your interests and hobbies... */
+.favsub-border-header {
+  position: absolute;
+  width: 577px;
+  height: 24px;
+  left: 351px;
+  top: 133px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 24px;
+  text-align: center;
+
+  color: #000000;
+}
+
+/* Rectangle */
+.favsub-border {
+  position: absolute;
+  width: 756px;
+  height: 316px;
+  left: 262px;
+  top: 175px;
+
+  border: 1px solid #F1EAEA;
+  box-sizing: border-box;
+  border-radius: 2px;
+}
+
+/* Choose 3 of your favorite school subjects */
+.favsub-inner-border-header {
+  position: absolute;
+  width: 398px;
+  height: 22px;
+  left: 423px;
+  top: 194px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: #000000;
+}
+
+
+
+/* Rectangle 2.7 */
+.favsub-button {
+  position: absolute;
+  width: 96px;
+  height: 26px;
+  left: 592px;
+  top: 478px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+  background-color: white;
+  color: deeppink;
+  border: 1.5px solid deeppink;
+
+  border-radius: 4px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+
+}
+
+.favsub-button:hover {
+  background-color: deeppink;
+  color: white;
+}
+
+
+/* Rectangle 4 */
+.favsub-button-1 {
+  position: absolute;
+  width: 134.25px;
+  height: 38.32px;
+  left: 354px;
+  top: 259px;
+
+  font-family: Rhodium Libre;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 12px;
+
+  text-align: center;
+
+  /*background-color: white;
+  color: deeppink;
+  border: 1.5px solid deeppink;
+
+  border-radius: 4px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;*/
+}
+
+
+/* Rectangle 4.1 */
+.favsub-button-2 {
+  position: absolute;
+  width: 134.25px;
+  height: 38.32px;
+  left: 499.58px;
+  top: 259px;
+
+  font-family: Rhodium Libre;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 12px;
+
+  text-align: center;
+
+  /*background-color: white;
+  color: deeppink;
+  border: 1.5px solid deeppink;
+
+  border-radius: 4px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;*/
+}
+
+/* Rectangle 4.2 */
+.favsub-button-3 {
+  position: absolute;
+  width: 134.25px;
+  height: 38.32px;
+  left: 645.17px;
+  top: 259px;
+
+  font-family: Rhodium Libre;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 12px;
+
+  text-align: center;
+
+}
+
+/* Rectangle 4.3 */
+.favsub-button-4 {
+  position: absolute;
+  width: 134.25px;
+  height: 38.32px;
+  left: 790.75px;
+  top: 259px;
+
+  font-family: Rhodium Libre;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 12px;
+
+}
+
+
+/* Rectangle 4.4 */
+.favsub-button-5 {
+  position: absolute;
+  width: 134.25px;
+  height: 38.32px;
+  left: 426.36px;
+  top: 302.8px;
+
+  font-family: Rhodium Libre;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 12px;
+
+  text-align: center;
+
+}
+
+/* Rectangle 4.5 */
+.favsub-button-6 {
+  position: absolute;
+  width: 134.25px;
+  height: 38.32px;
+  left: 571.94px;
+  top: 302.8px;
+
+  font-family: Rhodium Libre;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 12px;
+
+  text-align: center;
+
+}
+
+
+/* Rectangle 4.7 */
+.favsub-button-7 {
+  position: absolute;
+  width: 134.25px;
+  height: 38.32px;
+  left: 717.52px;
+  top: 302.8px;
+
+  font-family: Rhodium Libre;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 12px;
+
+  text-align: center;
+
+}
+
+
+/* Rectangle 4.8 */
+.favsub-button-8 {
+  position: absolute;
+  width: 134.25px;
+  height: 38.32px;
+  left: 354px;
+  top: 347.2px;
+
+  font-family: Rhodium Libre;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 12px;
+
+  text-align: center;
+
+}
+
+
+
+/* Rectangle 4.9 */
+.favsub-button-9 {
+  position: absolute;
+  width: 134.25px;
+  height: 38.32px;
+  left: 499.58px;
+  top: 347.2px;
+
+  font-family: Rhodium Libre;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 12px;
+
+  text-align: center;
+
+}
+
+
+
+/* Rectangle 4.10 */
+.favsub-button-10 {
+  position: absolute;
+  width: 134.25px;
+  height: 38.32px;
+  left: 645.17px;
+  top: 347.2px;
+
+  font-family: Rhodium Libre;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 12px;
+
+  text-align: center;
+
+}
+
+/* Rectangle 4.11 */
+.favsub-button-11 {
+  position: absolute;
+  width: 134.25px;
+  height: 38.32px;
+  left: 790.75px;
+  top: 347.2px;
+
+  font-family: Rhodium Libre;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 12px;
+
+  text-align: center;
+
+}
+
+/* Rectangle 4.12 */
+.favsub-button-12 {
+  position: absolute;
+  width: 134.25px;
+  height: 38.32px;
+  left: 426.36px;
+  top: 392.82px;
+
+  font-family: Rhodium Libre;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 12px;
+
+  text-align: center;
+
+}
+
+
+
+/* Rectangle 4.13 */
+.favsub-button-13 {
+  position: absolute;
+  width: 134.25px;
+  height: 38.32px;
+  left: 571.94px;
+  top: 392.82px;
+
+  font-family: Rhodium Libre;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 12px;
+
+  text-align: center;
+
+}
+
+
+/* Rectangle 4.14 */
+.favsub-button-14 {
+  position: absolute;
+  width: 134.25px;
+  height: 38.32px;
+  left: 717.52px;
+  top: 392.82px;
+
+  font-family: Rhodium Libre;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 12px;
+
+  text-align: center;
+
+}
+
+
+
+
+
+
+
+
+/*!* Math *!
+
+position: absolute;
+width: 48px;
+height: 31px;
+left: 397px;
+top: 262px;
+
+font-family: Rhodium Libre;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 18px;
+
+color: #000000;*/
+
+
+
+/* Group 8 */
+.science-dude {
+  position: absolute;
+  width: 184.94px;
+  height: 220.47px;
+  left: 37px;
+  top: 360px;
+}
+
+/* Screen Shot 2018-08-30 at 9.14 */
+.paint-utility {
+  position: absolute;
+  width: 144px;
+  height: 146px;
+  left: 1119px;
+  top: 462px;
+
+  //background: url(Screen Shot 2018-08-30 at 9.14.png);
+  mix-blend-mode: multiply;
+}
+
+/* Prefer working alone */
+.values-scale-1-left {
+  position: absolute;
+  width: 85px;
+  height: 36px;
+  left: 255px;
+  top: 231px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: #706F70;
+}
+
+
+/* Prefer working with people */
+.values-scale-1-right {
+  position: absolute;
+  width: 85px;
+  height: 36px;
+  left: 953px;
+  top: 231px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: #706F70;
+}
+
+/* Prefer applied learning */
+.values-scale-2-left {
+  position: absolute;
+  width: 87px;
+  height: 36px;
+  left: 254px;
+  top: 288px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: #706F70;
+}
+
+
+/* Prefer theoretical learning */
+.values-scale-2-right {
+  position: absolute;
+  width: 109px;
+  height: 36px;
+  left: 941px;
+  top: 288px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: #706F70;
+}
+
+/* Prefer doing the job myself */
+.values-scale-3-left {
+  position: absolute;
+  width: 98px;
+  height: 36px;
+  left: 248px;
+  top: 345px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: #706F70;
+}
+
+
+/* Prefer ordering others */
+.values-scale-3-right {
+  position: absolute;
+  width: 90px;
+  height: 36px;
+  left: 951px;
+  top: 345px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: #706F70;
+}
+
+
+/* Dislike risk-taking */
+.values-scale-4-left {
+  position: absolute;
+  width: 63px;
+  height: 36px;
+  left: 266px;
+  top: 402px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: #706F70;
+}
+
+
+
+/* Enjoy risk-taking */
+.values-scale-4-right {
+  position: absolute;
+  width: 63px;
+  height: 36px;
+  left: 964px;
+  top: 402px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: #706F70;
+}
+
+
+/* Prefer working alone */
+.values-scale-5-left {
+  position: absolute;
+  width: 93px;
+  height: 36px;
+  left: 251px;
+  top: 459px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: #706F70;
+}
+
+
+
+
+/* Prefer working with a team */
+.values-scale-5-right {
+  position: absolute;
+  width: 85px;
+  height: 36px;
+  left: 953px;
+  top: 459px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: #706F70;
+}
+
+
+
+

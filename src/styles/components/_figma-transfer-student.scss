@@ -1,0 +1,188 @@
+/* Rectangle */
+.transfer-student1-border {
+  position: absolute;
+  width: 470px;
+  height: 135px;
+  left: 405px;
+  top: 240px;
+
+  border: 1px solid #F1EAEA;
+  box-sizing: border-box;
+  border-radius: 2px;
+}
+
+/* Have you ever changed your program of study? */
+.transfer-student1-inner-border-header {
+  position: absolute;
+  width: 294px;
+  height: 17px;
+  left: 490px;
+  top: 259px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #000000;
+}
+
+
+
+/* Rectangle */
+.transfer-student2-border{
+  position: absolute;
+  width: 470px;
+  height: 324px;
+  left: 405px;
+  top: 240px;
+
+  border: 1px solid #F1EAEA;
+  box-sizing: border-box;
+  border-radius: 2px;
+}
+
+
+
+
+
+/* What’s the name of the program you were enrolled in? */
+.transfer-student2-inner-border-header {
+  position: absolute;
+  width: 333px;
+  height: 17px;
+  left: 469px;
+  top: 259px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #000000;
+}
+
+/* Line */
+.transfer-student2-input-1{
+  position: absolute;
+  width: 282.01px;
+  height: 20px;
+  left: 499px;
+  top: 318px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+  border: none;
+  border-bottom: 0.75px solid #D4D1D1;
+}
+
+/* Why did you transfer from your previous program? */
+.transfer-student2-inner-border-header-2 {
+  position: absolute;
+  width: 310px;
+  height: 17px;
+  left: 480px;
+  top: 350px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #000000;
+}
+
+
+
+/* Program too difficult */
+.transfer-student2-form-group {
+  position: absolute;
+  width: 205px;
+  height: 101px;
+  left: 518px;
+  top: 395px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 12px;
+
+  color: #000000;
+}
+
+
+/* Rectangle 3 */
+.transfer-student2-checkbox-1{
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  left: 491px;
+  top: 393px;
+
+  border: 0.75px solid #43B9AE;
+  box-sizing: border-box;
+  border-radius: 3px;
+}
+
+
+
+/*
+input[type="radio"] + label {
+  color:#f2f2f2;
+  font-family:Arial, sans-serif;
+  font-size:14px;
+}
+*/
+
+/*input[type="radio"] {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  left: 491px;
+  top: 393px;
+
+
+
+  border: 0.75px solid #43B9AE;
+  //box-sizing: border-box;
+  border-radius: 3px;
+}*/
+
+/* Rectangle 2.6 */
+.transfer-student2-button {
+  position: absolute;
+  width: 96px;
+  height: 26px;
+  left: 592px;
+  top: 551px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+  background-color: white;
+  color: deeppink;
+  border: 1.5px solid deeppink;
+
+  border-radius: 4px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+.transfer-student2-button:hover {
+  background-color: deeppink;
+  color: white;
+}
+

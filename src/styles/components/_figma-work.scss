@@ -1,0 +1,414 @@
+/* Group 7 */
+.work1-handshake {
+  position: absolute;
+  width: 194.71px;
+  height: 99.24px;
+  left: 539.29px;
+  top: 83.74px;
+}
+
+
+/* Rectangle */
+.work1-border {
+  position: absolute;
+  width: 602px;
+  height: 155px;
+  left: 339px;
+  top: 239px;
+
+  border: 1px solid #F1EAEA;
+  box-sizing: border-box;
+  border-radius: 2px;
+}
+
+/* Are you currently working? */
+.work1-inner-border-header {
+  position: absolute;
+  width: 166px;
+  height: 17px;
+  left: 560px;
+  top: 249px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #000000;
+}
+
+.work1-button-1-div {
+  position: absolute;
+  width: 104.66px;
+  height: 34.99px;
+  left: 346px;
+  top: 301px;
+}
+
+/* Rectangle 2 */
+.work1-button-1 {
+  position: absolute;
+  width: 104.66px;
+  height: 34.99px;
+  left: 0px;
+  top: 0px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+  //padding-bottom: 4px;
+
+  background-color: white;
+  color: deeppink;
+  border: 1.5px solid deeppink;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+  //padding-bottom: 4px;
+
+  background-color: white;
+  color: deeppink;
+  border: 1.5px solid deeppink;
+
+  border-radius: 4px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+.work1-button-1:hover {
+  background-color: deeppink;
+  color: white;
+}
+
+
+.work1-button-2-div {
+  position: absolute;
+  width: 233px;
+  height: 35px;
+  left: 460px;
+  top: 301px;
+}
+
+/* Rectangle 2.1 */
+.work1-button-2 {
+  position: absolute;
+  width: 233px;
+  height: 35px;
+  left: 0px;
+  top: 0px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+  //padding-bottom: 4px;
+
+  background-color: white;
+  color: deeppink;
+  border: 1.5px solid deeppink;
+
+  border-radius: 4px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+.work1-button-2:hover {
+  background-color: deeppink;
+  color: white;
+}
+
+
+.work1-button-3-div {
+  position: absolute;
+  width: 233px;
+  height: 35px;
+  left: 701px;
+  top: 301px;
+}
+
+/* Rectangle 2.7 */
+.work1-button-3 {
+  position: absolute;
+  width: 233px;
+  height: 35px;
+  left: 0px;
+  top: 0px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+  //padding-bottom: 4px;
+
+  background-color: white;
+  color: deeppink;
+  border: 1.5px solid deeppink;
+
+  border-radius: 4px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+.work1-button-3:hover {
+  background-color: deeppink;
+  color: white;
+}
+
+
+/* Rectangle */
+.work2-border {
+  position: absolute;
+  width: 602px;
+  height: 271px;
+  left: 339px;
+  top: 215px;
+
+  border: 1px solid #F1EAEA;
+  box-sizing: border-box;
+  border-radius: 2px;
+}
+
+/* What is your current job position? */
+.work2-inner-border-header {
+  position: absolute;
+  width: 195px;
+  height: 16px;
+  left: 535px;
+  top: 234px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 13px;
+
+  color: #000000;
+}
+
+
+
+/* Line */
+.work2-input-1 {
+  position: absolute;
+  width: 225px;
+  height: 20px;
+  left: 523px;
+  top: 290px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+  color: deeppink;
+
+  border: none;
+  border-bottom: 0.75px solid #C7C3C3;
+}
+::placeholder {
+  color: black;
+  //color: deeppink;
+  //font-size: 1.5em;
+}
+
+/* Is your job position related to your field of study? */
+.work2-inner-border-header-2 {
+  position: absolute;
+  width: 151px;
+  height: 31px;
+  left: 372px;
+  top: 327px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 13px;
+
+  color: #000000;
+}
+
+/* Rectangle 2.1 */
+.work2-button-1{
+  position: absolute;
+  width: 78.27px;
+  height: 30px;
+  left: 542px;
+  top: 330px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+  background-color: white;
+  color: deeppink;
+  border: 1.5px solid deeppink;
+
+  border-radius: 4px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+.work2-button-1:hover {
+  background-color: deeppink;
+  color: white;
+}
+
+/* Rectangle 2 */
+.work2-button-2 {
+  position: absolute;
+  width: 78.27px;
+  height: 30px;
+  left: 644.73px;
+  top: 330px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+  background-color: white;
+  color: deeppink;
+  border: 1.5px solid deeppink;
+
+  border-radius: 4px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+.work2-button-2:hover {
+  background-color: deeppink;
+  color: white;
+}
+
+
+/* How much do you like your job? */
+.work2-inner-border-header-3 {
+  position: absolute;
+  width: 190px;
+  height: 16px;
+  left: 540px;
+  top: 392px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 13px;
+
+  color: #000000;
+}
+
+/* Line */
+.work2-slider {
+  position: absolute;
+  width: 363px;
+  height: 0px;
+  left: 457px;
+  top: 422px;
+
+  //border: 0.75px solid #C7C3C3;
+}
+
+.work2-slider:required {
+  width: 363px;
+}
+
+
+/* Rectangle 2.6 */
+.work2-button {
+  position: absolute;
+  width: 96px;
+  height: 26px;
+  left: 588px;
+  top: 473px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+  background-color: white;
+  color: deeppink;
+  border: 1.5px solid deeppink;
+
+  border-radius: 4px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+.work2-button:hover {
+  background-color: deeppink;
+  color: white;
+}
+
+//Work - 3
+
+.work3-inner-border-header {
+  position: absolute;
+  width: 215px;
+  height: 17px;
+  left: 530px;
+  top: 249px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #000000;
+}
+
+
+
+
+/* image */
+.work-factory-1 {
+  position: absolute;
+  width: 377px;
+  height: 142px;
+  left: 0px;
+  top: 433px;
+
+  //background: url(image.png);
+  mix-blend-mode: multiply;
+}
+
+/* image */
+.work-factory-2 {
+  position: absolute;
+  width: 363px;
+  height: 150px;
+  left: 917px;
+  top: 425px;
+
+
+  //background: url(image.png);
+  mix-blend-mode: multiply;
+}
+

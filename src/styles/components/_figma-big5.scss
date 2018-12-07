@@ -1,0 +1,5165 @@
+.big5-border-header {
+  /* Now for the last part, we ask you some questions about your personality! */
+
+  position: absolute;
+  width: 599px;
+  height: 24px;
+  left: 340px;
+  top: 133px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 24px;
+  text-align: center;
+
+  color: #000000;
+
+
+}
+
+/* Rectangle */
+.big5-border {
+
+
+  position: absolute;
+  width: 700px;
+  height: 2205px;
+  left: 290px;
+  top: 179px;
+
+  border: 1px solid #F1EAEA;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+}
+
+
+/* Big */
+.big5-logo {
+  position: absolute;
+  width: 103px;
+  height: 115px;
+  left: 540px;
+  top: 25px;
+
+  font-family: Ravi Prakash;
+  font-style: normal;
+  font-weight: normal;
+  line-height: normal;
+  font-size: 72px;
+  text-align: center;
+
+  color: #DD417C;
+}
+
+/* How much do you agree with each statement as you generally are now, not as you wish to be in the future? */
+.big5-inner-border-header {
+
+  position: absolute;
+  width: 570px;
+  height: 15px;
+  left: 358px;
+  top: 196px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 12px;
+
+  color: #000000;
+
+
+}
+
+
+/* Group */
+.big5-question1-group {
+  position: absolute;
+  width: 548px;
+  height: 75px;
+  left: 366px;
+  top: 252px;
+}
+
+
+
+
+/* 1. I am the life of the party */
+.big5-question1 {
+  position: absolute;
+  width: 190px;
+  height: 18px;
+  left: 366px;
+  top: 252px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: deeppink;//#DD417C;////#706F70;
+}
+
+
+
+
+/* Strongly Disagree */
+.big5-question1-strongly-disagree  {
+  position: absolute;
+  width: 80px;
+  height: 14px;
+  left: 469px;
+  top: 313px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+
+
+
+/* Neutral */
+.big5-question1-neutral {
+  position: absolute;
+  width: 36px;
+  height: 14px;
+  left: 671px;
+  top: 313px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+
+/* Strongly Agree */
+.big5-question1-strongly-agree {
+  position: absolute;
+  width: 66px;
+  height: 14px;
+  left: 836px;
+  top: 313px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+
+/* Rectangle 2.5 */
+.big5-question1-button-1 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 464px;
+  top: 279px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.6 */
+.big5-question1-button-2 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 554px;
+  top: 279px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.7 */
+.big5-question1-button-3 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 644px;
+  top: 279px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.8 */
+.big5-question1-button-4 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 734px;
+  top: 279px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.9 */
+.big5-question1-button-5 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 824px;
+  top: 279px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* 1 */
+.big5-question1-button-1-text {
+  position: absolute;
+  width: 9px;
+  height: 30px;
+  left: 504px;
+  top: 279px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 2 */
+.big5-question1-button-2-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 593px;
+  top: 279px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 3 */
+.big5-question1-button-3-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 683px;
+  top: 279px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 4 */
+.big5-question1-button-4-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 772px;
+  top: 279px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 5 */
+.big5-question1-button-5-text {
+  position: absolute;
+  width: 11px;
+  height: 30px;
+  left: 863px;
+  top: 279px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+
+
+
+
+
+
+/* Group 2 */
+.big5-question2-group {
+  position: absolute;
+  width: 549px;
+  height: 75px;
+  left: 366px;
+  top: 357px;
+}
+
+
+/* 2. I sympathize with others’ feelings */
+.big5-question2 {
+  position: absolute;
+  width: 230px;
+  height: 18px;
+  left: 366px;
+  top: 357px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: deeppink;//#706F70;
+}
+
+
+/* Strongly Disagree */
+.big5-question2-strongly-disagree {
+  position: absolute;
+  width: 80px;
+  height: 14px;
+  left: 470px;
+  top: 418px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+
+/* Neutral */
+.big5-question2-neutral {
+  position: absolute;
+  width: 36px;
+  height: 14px;
+  left: 672px;
+  top: 418px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+
+/* Strongly Agree */
+.big5-question2-strongly-agree {
+  position: absolute;
+  width: 66px;
+  height: 14px;
+  left: 837px;
+  top: 418px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+
+/* Rectangle 2.10 */
+.big5-question2-button-1 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 465px;
+  top: 384px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.11 */
+.big5-question2-button-2 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 555px;
+  top: 384px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.12 */
+.big5-question2-button-3 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 645px;
+  top: 384px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.13 */
+.big5-question2-button-4 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 735px;
+  top: 384px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.14 */
+.big5-question2-button-5 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 825px;
+  top: 384px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* 1 */
+.big5-question2-button-1-text {
+  position: absolute;
+  width: 9px;
+  height: 30px;
+  left: 505px;
+  top: 384px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 2 */
+.big5-question2-button-2-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 594px;
+  top: 384px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 3 */
+.big5-question2-button-3-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 684px;
+  top: 384px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 4 */
+.big5-question2-button-4-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 773px;
+  top: 384px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 5 */
+.big5-question2-button-5-text {
+  position: absolute;
+  width: 11px;
+  height: 30px;
+  left: 864px;
+  top: 384px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+
+/* Group 3 */
+.big5-question3-group {
+  position: absolute;
+  width: 549px;
+  height: 75px;
+  left: 366px;
+  top: 461px;
+}
+
+
+/* 3. I get chores done right away */
+.big5-question3 {
+  position: absolute;
+  width: 199px;
+  height: 18px;
+  left: 366px;
+  top: 461px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: deeppink;//#706F70;
+}
+
+
+/* Strongly Disagree */
+.big5-question3-strongly-disagree {
+  position: absolute;
+  width: 80px;
+  height: 14px;
+  left: 470px;
+  top: 522px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+
+/* Neutral */
+.big5-question3-neutral {
+  position: absolute;
+  width: 36px;
+  height: 14px;
+  left: 672px;
+  top: 522px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+
+/* Strongly Agree */
+.big5-question3-strongly-agree {
+  position: absolute;
+  width: 66px;
+  height: 14px;
+  left: 837px;
+  top: 522px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+
+/* Rectangle 2.15 */
+.big5-question3-button-1 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 465px;
+  top: 488px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.16 */
+.big5-question3-button-2 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 555px;
+  top: 488px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.17 */
+.big5-question3-button-3 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 645px;
+  top: 488px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.18 */
+.big5-question3-button-4 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 735px;
+  top: 488px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.19 */
+.big5-question3-button-5 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 825px;
+  top: 488px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* 1 */
+.big5-question3-button-1-text {
+  position: absolute;
+  width: 9px;
+  height: 30px;
+  left: 505px;
+  top: 488px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 2 */
+.big5-question3-button-2-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 594px;
+  top: 488px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 3 */
+.big5-question3-button-3-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 684px;
+  top: 488px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 4 */
+.big5-question3-button-4-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 773px;
+  top: 488px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 5 */
+.big5-question3-button-5-text {
+  position: absolute;
+  width: 11px;
+  height: 30px;
+  left: 864px;
+  top: 488px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+
+
+
+
+
+/* Group 4 */
+.big5-question4-group {
+  position: absolute;
+  width: 549px;
+  height: 75px;
+  left: 365px;
+  top: 566px;
+}
+
+
+/* 4. I have frequent mood swings */
+.big5-question4 {
+  position: absolute;
+  width: 192px;
+  height: 18px;
+  left: 365px;
+  top: 566px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: deeppink;//#706F70;
+}
+
+
+/* Strongly Disagree */
+.big5-question4-strongly-disagree {
+  position: absolute;
+  width: 80px;
+  height: 14px;
+  left: 469px;
+  top: 627px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+
+/* Neutral */
+.big5-question4-neutral {
+  position: absolute;
+  width: 36px;
+  height: 14px;
+  left: 671px;
+  top: 627px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+
+/* Strongly Agree */
+.big5-question4-strongly-agree {
+  position: absolute;
+  width: 66px;
+  height: 14px;
+  left: 836px;
+  top: 627px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+
+/* Rectangle 2.20 */
+.big5-question4-button-1 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 464px;
+  top: 593px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.21 */
+.big5-question4-button-2 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 554px;
+  top: 593px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.22 */
+.big5-question4-button-3 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 644px;
+  top: 593px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.23 */
+.big5-question4-button-4 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 734px;
+  top: 593px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.24 */
+.big5-question4-button-5 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 824px;
+  top: 593px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* 1 */
+.big5-question4-button-1-text {
+  position: absolute;
+  width: 9px;
+  height: 30px;
+  left: 504px;
+  top: 593px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 2 */
+.big5-question4-button-2-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 593px;
+  top: 593px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 3 */
+.big5-question4-button-3-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 683px;
+  top: 593px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 4 */
+.big5-question4-button-4-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 772px;
+  top: 593px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 5 */
+.big5-question4-button-5-text {
+  position: absolute;
+  width: 11px;
+  height: 30px;
+  left: 863px;
+  top: 593px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* Group 5 */
+.big5-question5-group {
+  position: absolute;
+  width: 549px;
+  height: 75px;
+  left: 366px;
+  top: 671px;
+}
+
+
+/* 5. I have a vivid imagination */
+.big5-question5 {
+  position: absolute;
+  width: 179px;
+  height: 18px;
+  left: 366px;
+  top: 671px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: deeppink;//#706F70;
+}
+
+
+/* Strongly Disagree */
+.big5-question5-strongly-disagree {
+  position: absolute;
+  width: 80px;
+  height: 14px;
+  left: 470px;
+  top: 732px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+
+/* Neutral */
+.big5-question5-neutral {
+  position: absolute;
+  width: 36px;
+  height: 14px;
+  left: 672px;
+  top: 732px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+
+/* Strongly Agree */
+.big5-question5-strongly-agree {
+  position: absolute;
+  width: 66px;
+  height: 14px;
+  left: 837px;
+  top: 732px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+
+/* Rectangle 2.25 */
+.big5-question5-button-1 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 465px;
+  top: 698px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.26 */
+.big5-question5-button-2 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 555px;
+  top: 698px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.27 */
+.big5-question5-button-3 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 645px;
+  top: 698px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.28 */
+.big5-question5-button-4 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 735px;
+  top: 698px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.29 */
+.big5-question5-button-5 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 825px;
+  top: 698px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* 1 */
+.big5-question5-button-1-text {
+  position: absolute;
+  width: 9px;
+  height: 30px;
+  left: 505px;
+  top: 698px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 2 */
+.big5-question5-button-2-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 594px;
+  top: 698px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 3 */
+.big5-question5-button-3-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 684px;
+  top: 698px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 4 */
+.big5-question5-button-4-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 773px;
+  top: 698px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 5 */
+.big5-question5-button-5-text{
+  position: absolute;
+  width: 11px;
+  height: 30px;
+  left: 864px;
+  top: 698px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+
+/* Group 6 */
+.big5-question6-group {
+  position: absolute;
+  width: 549px;
+  height: 75px;
+  left: 366px;
+  top: 776px;
+}
+
+
+/* 6. I don’t talk a lot */
+.big5-question6 {
+  position: absolute;
+  width: 135px;
+  height: 18px;
+  left: 366px;
+  top: 776px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: deeppink;//#706F70;
+}
+
+
+/* Strongly Disagree */
+.big5-question6-strongly-disagree {
+  position: absolute;
+  width: 80px;
+  height: 14px;
+  left: 470px;
+  top: 837px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+
+/* Neutral */
+.big5-question6-neutral {
+  position: absolute;
+  width: 36px;
+  height: 14px;
+  left: 672px;
+  top: 837px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+
+/* Strongly Agree */
+.big5-question6-strongly-agree {
+  position: absolute;
+  width: 66px;
+  height: 14px;
+  left: 837px;
+  top: 837px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+
+/* Rectangle 2.30 */
+.big5-question6-button-1 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 465px;
+  top: 803px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.31 */
+.big5-question6-button-2 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 555px;
+  top: 803px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.32 */
+.big5-question6-button-3 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 645px;
+  top: 803px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.33 */
+.big5-question6-button-4 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 735px;
+  top: 803px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.34 */
+.big5-question6-button-5 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 825px;
+  top: 803px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* 1 */
+.big5-question6-button-1-text {
+  position: absolute;
+  width: 9px;
+  height: 30px;
+  left: 505px;
+  top: 803px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 2 */
+.big5-question6-button-2-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 594px;
+  top: 803px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 3 */
+.big5-question6-button-3-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 684px;
+  top: 803px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 4 */
+.big5-question6-button-4-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 773px;
+  top: 803px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 5 */
+.big5-question6-button-5-text{
+  position: absolute;
+  width: 11px;
+  height: 30px;
+  left: 864px;
+  top: 803px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+
+
+/* Group 7 */
+.big5-question7-group {
+  position: absolute;
+  width: 549px;
+  height: 75px;
+  left: 366px;
+  top: 881px;
+}
+
+
+/* 7. I am not interested in other people’s problems */
+.big5-question7 {
+  position: absolute;
+  width: 305px;
+  height: 18px;
+  left: 366px;
+  top: 881px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: deeppink;//#706F70;
+}
+
+
+/* Strongly Disagree */
+.big5-question7-strongly-disagree {
+  position: absolute;
+  width: 80px;
+  height: 14px;
+  left: 470px;
+  top: 942px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+
+/* Neutral */
+.big5-question7-neutral {
+  position: absolute;
+  width: 36px;
+  height: 14px;
+  left: 672px;
+  top: 942px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+
+/* Strongly Agree */
+.big5-question7-strongly-agree {
+  position: absolute;
+  width: 66px;
+  height: 14px;
+  left: 837px;
+  top: 942px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+
+/* Rectangle 2.35 */
+.big5-question7-button-1 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 465px;
+  top: 908px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.36 */
+.big5-question7-button-2 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 555px;
+  top: 908px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.37 */
+.big5-question7-button-3 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 645px;
+  top: 908px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.38 */
+.big5-question7-button-4 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 735px;
+  top: 908px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.39 */
+.big5-question7-button-5 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 825px;
+  top: 908px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* 1 */
+.big5-question7-button-1-text {
+  position: absolute;
+  width: 9px;
+  height: 30px;
+  left: 505px;
+  top: 908px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 2 */
+.big5-question7-button-2-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 594px;
+  top: 908px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 3 */
+.big5-question7-button-3-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 684px;
+  top: 908px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 4 */
+.big5-question7-button-4-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 773px;
+  top: 908px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 5 */
+.big5-question7-button-5-text {
+  position: absolute;
+  width: 11px;
+  height: 30px;
+  left: 864px;
+  top: 908px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+
+
+
+/* Group 8 */
+.big5-question8-group {
+  position: absolute;
+  width: 549px;
+  height: 75px;
+  left: 366px;
+  top: 986px;
+}
+
+
+/* 8. I often forget to put things back in their proper place */
+.big5-question8 {
+  position: absolute;
+  width: 365px;
+  height: 18px;
+  left: 366px;
+  top: 986px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: deeppink;//#706F70;
+}
+
+
+/* Strongly Disagree */
+.big5-question8-strongly-disagree {
+  position: absolute;
+  width: 80px;
+  height: 14px;
+  left: 470px;
+  top: 1047px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+
+/* Neutral */
+.big5-question8-neutral {
+  position: absolute;
+  width: 36px;
+  height: 14px;
+  left: 672px;
+  top: 1047px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+
+/* Strongly Agree */
+.big5-question8-strongly-agree {
+  position: absolute;
+  width: 66px;
+  height: 14px;
+  left: 837px;
+  top: 1047px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+
+/* Rectangle 2.40 */
+.big5-question8-button-1 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 465px;
+  top: 1013px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.41 */
+.big5-question8-button-2 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 555px;
+  top: 1013px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.42 */
+.big5-question8-button-3 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 645px;
+  top: 1013px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.43 */
+.big5-question8-button-4 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 735px;
+  top: 1013px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.44 */
+.big5-question8-button-5 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 825px;
+  top: 1013px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* 1 */
+.big5-question8-button-1-text {
+  position: absolute;
+  width: 9px;
+  height: 30px;
+  left: 505px;
+  top: 1013px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 2 */
+.big5-question8-button-2-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 594px;
+  top: 1013px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 3 */
+.big5-question8-button-3-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 684px;
+  top: 1013px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 4 */
+.big5-question8-button-4-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 773px;
+  top: 1013px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 5 */
+.big5-question8-button-5-text {
+  position: absolute;
+  width: 11px;
+  height: 30px;
+  left: 864px;
+  top: 1013px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+
+/* Group 9 */
+.big5-question9-group {
+  position: absolute;
+  width: 549px;
+  height: 75px;
+  left: 366px;
+  top: 1091px;
+}
+
+
+/* 9. I am relaxed most of the time */
+.big5-question9 {
+  position: absolute;
+  width: 215px;
+  height: 18px;
+  left: 366px;
+  top: 1091px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: deeppink;//#706F70;
+}
+
+
+/* Strongly Disagree */
+.big5-question9-strongly-disagree {
+  position: absolute;
+  width: 80px;
+  height: 14px;
+  left: 470px;
+  top: 1152px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+
+/* Neutral */
+.big5-question9-neutral {
+  position: absolute;
+  width: 36px;
+  height: 14px;
+  left: 672px;
+  top: 1152px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+
+/* Strongly Agree */
+.big5-question9-strongly-agree {
+  position: absolute;
+  width: 66px;
+  height: 14px;
+  left: 837px;
+  top: 1152px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+
+/* Rectangle 2.45 */
+.big5-question9-button-1 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 465px;
+  top: 1118px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.46 */
+.big5-question9-button-2 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 555px;
+  top: 1118px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.47 */
+.big5-question9-button-3 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 645px;
+  top: 1118px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.48 */
+.big5-question9-button-4 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 735px;
+  top: 1118px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.49 */
+.big5-question9-button-5 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 825px;
+  top: 1118px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* 1 */
+.big5-question9-button-1-text {
+  position: absolute;
+  width: 9px;
+  height: 30px;
+  left: 505px;
+  top: 1118px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 2 */
+.big5-question9-button-2-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 594px;
+  top: 1118px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 3 */
+.big5-question9-button-3-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 684px;
+  top: 1118px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 4 */
+.big5-question9-button-4-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 773px;
+  top: 1118px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 5 */
+.big5-question9-button-5-text {
+  position: absolute;
+  width: 11px;
+  height: 30px;
+  left: 864px;
+  top: 1118px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+
+
+
+
+
+/* Group 10 */
+.big5-question10-group{
+  position: absolute;
+  width: 549px;
+  height: 75px;
+  left: 366px;
+  top: 1196px;
+}
+
+
+
+
+/* 10. I am not interested in abstract ideas */
+.big5-question10{
+  position: absolute;
+  width: 261px;
+  height: 18px;
+  left: 366px;
+  top: 1196px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: deeppink;//#706F70;
+}
+
+
+
+
+/* Strongly Disagree */
+.big5-question10-strongly-disagree{
+  position: absolute;
+  width: 80px;
+  height: 14px;
+  left: 470px;
+  top: 1257px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+
+
+
+/* Neutral */
+.big5-question10-neutral {
+  position: absolute;
+  width: 36px;
+  height: 14px;
+  left: 672px;
+  top: 1257px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+
+/* Strongly Agree */
+.big5-question10-strongly-agree {
+  position: absolute;
+  width: 66px;
+  height: 14px;
+  left: 837px;
+  top: 1257px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+
+/* Rectangle 2.50 */
+.big5-question10-button-1 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 465px;
+  top: 1223px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+
+
+/* Rectangle 2.51 */
+.big5-question10-button-2 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 555px;
+  top: 1223px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.52 */
+.big5-question10-button-3 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 645px;
+  top: 1223px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.53 */
+.big5-question10-button-4 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 735px;
+  top: 1223px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.54 */
+.big5-question10-button-5 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 825px;
+  top: 1223px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* 1 */
+.big5-question10-button-1-text {
+  position: absolute;
+  width: 9px;
+  height: 30px;
+  left: 505px;
+  top: 1223px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 2 */
+.big5-question10-button-2-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 594px;
+  top: 1223px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 3 */
+.big5-question10-button-3-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 684px;
+  top: 1223px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 4 */
+.big5-question10-button-4-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 773px;
+  top: 1223px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+/* 5 */
+.big5-question10-button-5-text {
+  position: absolute;
+  width: 11px;
+  height: 30px;
+  left: 864px;
+  top: 1223px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+
+
+
+
+
+.big5-question11-group{
+  /* Group 11 */
+  position: absolute;
+  width: 549px;
+  height: 75px;
+  left: 366px;
+  top: 1301px;
+}
+.big5-question11{
+  /* 11. I talk to a lot of different people at parties */
+  position: absolute;
+  width: 314px;
+  height: 18px;
+  left: 366px;
+  top: 1301px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+  color: deeppink;//#706F70;
+}
+
+.big5-question11-strongly-disagree{
+  /* Strongly Disagree */
+  position: absolute;
+  width: 80px;
+  height: 14px;
+  left: 470px;
+  top: 1362px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+  color: #706F70;
+}
+.big5-question11-neutral{
+  /* Neutral */
+  position: absolute;
+  width: 36px;
+  height: 14px;
+  left: 672px;
+  top: 1362px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+  color: #706F70;
+}
+.big5-question11-strongly-agree{
+  /* Strongly Agree */
+  position: absolute;
+  width: 66px;
+  height: 14px;
+  left: 837px;
+  top: 1362px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+  color: #706F70;
+}
+.big5-question11-button-1{
+  /* Rectangle 2.55 */
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 465px;
+  top: 1328px;
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+.big5-question11-button-2{
+  /* Rectangle 2.56 */
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 555px;
+  top: 1328px;
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+.big5-question11-button-3{
+  /* Rectangle 2.57 */
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 645px;
+  top: 1328px;
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+.big5-question11-button-4{
+  /* Rectangle 2.58 */
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 735px;
+  top: 1328px;
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+.big5-question11-button-5{
+  /* Rectangle 2.59 */
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 825px;
+  top: 1328px;
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+.big5-question11-button-1-text{
+  /* 1 */
+  position: absolute;
+  width: 9px;
+  height: 30px;
+  left: 505px;
+  top: 1328px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+  color: #565151;
+}
+.big5-question11-button-2-text{
+  /* 2 */
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 594px;
+  top: 1328px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+  color: #565151;
+}
+.big5-question11-button-3-text{
+  /* 3 */
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 684px;
+  top: 1328px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+  color: #565151;
+}
+.big5-question11-button-4-text{
+  /* 4 */
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 773px;
+  top: 1328px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+  color: #565151;
+}
+.big5-question11-button-5-text{
+  /* 5 */
+  position: absolute;
+  width: 11px;
+  height: 30px;
+  left: 864px;
+  top: 1328px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+  color: #565151;
+}
+
+
+.big5-question12-group{
+  /* Group 12 */
+
+  position: absolute;
+  width: 549px;
+  height: 75px;
+  left: 366px;
+  top: 1406px;
+}
+
+.big5-question12{
+  /* 12. I feel others’ emotions */
+
+  position: absolute;
+  width: 162px;
+  height: 18px;
+  left: 366px;
+  top: 1406px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: deeppink;//#706F70;
+}
+
+.big5-question12-strongly-disagree{
+  /* Strongly Disagree */
+
+  position: absolute;
+  width: 80px;
+  height: 14px;
+  left: 470px;
+  top: 1467px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+.big5-question12-neutral{
+  /* Neutral */
+
+  position: absolute;
+  width: 36px;
+  height: 14px;
+  left: 672px;
+  top: 1467px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+.big5-question12-strongly-agree{
+  /* Strongly Agree */
+
+  position: absolute;
+  width: 66px;
+  height: 14px;
+  left: 837px;
+  top: 1467px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706F70;
+}
+
+.big5-question12-button-1{
+  /* Rectangle 2.60 */
+
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 465px;
+  top: 1433px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+.big5-question12-button-2{
+  /* Rectangle 2.61 */
+
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 555px;
+  top: 1433px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+.big5-question12-button-3{
+  /* Rectangle 2.62 */
+
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 645px;
+  top: 1433px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+.big5-question12-button-4{
+  /* Rectangle 2.63 */
+
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 735px;
+  top: 1433px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+.big5-question12-button-5{
+  /* Rectangle 2.64 */
+
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 825px;
+  top: 1433px;
+
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+.big5-question12-button-1-text{
+  /* 1 */
+
+  position: absolute;
+  width: 9px;
+  height: 30px;
+  left: 505px;
+  top: 1433px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+.big5-question12-button-2-text{
+  /* 2 */
+
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 594px;
+  top: 1433px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+.big5-question12-button-3-text{
+  /* 3 */
+
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 684px;
+  top: 1433px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+.big5-question12-button-4-text{
+  /* 4 */
+
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 773px;
+  top: 1433px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+.big5-question12-button-5-text{
+  /* 5 */
+
+  position: absolute;
+  width: 11px;
+  height: 30px;
+  left: 864px;
+  top: 1433px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+
+
+.big5-question13-group{
+  /* Group 13 */
+  position: absolute;
+  width: 549px;
+  height: 75px;
+  left: 366px;
+  top: 1511px;
+}
+.big5-question13{
+  /* 13. I like order */
+  position: absolute;
+  width: 96px;
+  height: 18px;
+  left: 366px;
+  top: 1511px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+  color: deeppink;//#706F70;
+}
+.big5-question13-strongly-disagree{
+  /* Strongly Disagree */
+  position: absolute;
+  width: 80px;
+  height: 14px;
+  left: 470px;
+  top: 1572px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+  color: #706F70;
+}
+.big5-question13-neutral{
+  /* Neutral */
+  position: absolute;
+  width: 36px;
+  height: 14px;
+  left: 672px;
+  top: 1572px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+  color: #706F70;
+}
+.big5-question13-strongly-agree{
+  /* Strongly Agree */
+  position: absolute;
+  width: 66px;
+  height: 14px;
+  left: 837px;
+  top: 1572px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+  color: #706F70;
+}
+.big5-question13-button-1{
+  /* Rectangle 2.65 */
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 465px;
+  top: 1538px;
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+.big5-question13-button-2{
+  /* Rectangle 2.66 */
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 555px;
+  top: 1538px;
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+.big5-question13-button-3{
+  /* Rectangle 2.67 */
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 645px;
+  top: 1538px;
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+.big5-question13-button-4{
+  /* Rectangle 2.68 */
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 735px;
+  top: 1538px;
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+.big5-question13-button-5{
+  /* Rectangle 2.69 */
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 825px;
+  top: 1538px;
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+.big5-question13-button-1-text{
+  /* 1 */
+  position: absolute;
+  width: 9px;
+  height: 30px;
+  left: 505px;
+  top: 1538px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+  color: #565151;
+}
+.big5-question13-button-2-text{
+  /* 2 */
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 594px;
+  top: 1538px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+  color: #565151;
+}
+.big5-question13-button-3-text{
+  /* 3 */
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 684px;
+  top: 1538px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+  color: #565151;
+}
+.big5-question13-button-4-text{
+  /* 4 */
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 773px;
+  top: 1538px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+  color: #565151;
+}
+.big5-question13-button-5-text{
+  /* 5 */
+  position: absolute;
+  width: 11px;
+  height: 30px;
+  left: 864px;
+  top: 1538px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+  color: #565151;
+}
+
+
+
+
+
+
+
+.big5-question14-group{
+  /* Group 14 */
+  position: absolute;
+  width: 549px;
+  height: 75px;
+  left: 366px;
+  top: 1616px;
+}
+.big5-question14{
+  /* 14. I get upset easily */
+  position: absolute;
+  width: 136px;
+  height: 18px;
+  left: 366px;
+  top: 1616px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+  color: deeppink;//#706F70;
+}
+.big5-question14-strongly-disagree{
+  /* Strongly Disagree */
+  position: absolute;
+  width: 80px;
+  height: 14px;
+  left: 470px;
+  top: 1677px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+  color: #706F70;
+}
+.big5-question14-neutral{
+  /* Neutral */
+  position: absolute;
+  width: 36px;
+  height: 14px;
+  left: 672px;
+  top: 1677px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+  color: #706F70;
+}
+.big5-question14-strongly-agree{
+  /* Strongly Agree */
+  position: absolute;
+  width: 66px;
+  height: 14px;
+  left: 837px;
+  top: 1677px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+  color: #706F70;
+}
+.big5-question14-button-1{
+  /* Rectangle 2.70 */
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 465px;
+  top: 1643px;
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+.big5-question14-button-2{
+  /* Rectangle 2.71 */
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 555px;
+  top: 1643px;
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+.big5-question14-button-3{
+  /* Rectangle 2.72 */
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 645px;
+  top: 1643px;
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+.big5-question14-button-4{
+  /* Rectangle 2.73 */
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 735px;
+  top: 1643px;
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+.big5-question14-button-5{
+  /* Rectangle 2.74 */
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 825px;
+  top: 1643px;
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+.big5-question14-button-1-text{
+  /* 1 */
+  position: absolute;
+  width: 9px;
+  height: 30px;
+  left: 505px;
+  top: 1643px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+  color: #565151;
+}
+.big5-question14-button-2-text{
+  /* 2 */
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 594px;
+  top: 1643px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+  color: #565151;
+}
+.big5-question14-button-3-text{
+  /* 3 */
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 684px;
+  top: 1643px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+  color: #565151;
+}
+.big5-question14-button-4-text{
+  /* 4 */
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 773px;
+  top: 1643px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+  color: #565151;
+}
+.big5-question14-button-5-text{
+  /* 5 */
+  position: absolute;
+  width: 11px;
+  height: 30px;
+  left: 864px;
+  top: 1643px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+  color: #565151;
+}
+
+
+
+
+.big5-question15-group{
+  /* Group 15 */
+  position: absolute;
+  width: 548px;
+  height: 75px;
+  left: 366px;
+  top: 1721px;
+}
+.big5-question15{
+  /* 15. I have difficulty understanding abstract ideas */
+  position: absolute;
+  width: 330px;
+  height: 18px;
+  left: 366px;
+  top: 1721px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+  color: deeppink;//#706F70;
+}
+.big5-question15-strongly-disagree{
+  /* Strongly Disagree */
+  position: absolute;
+  width: 80px;
+  height: 14px;
+  left: 469px;
+  top: 1782px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+  color: #706F70;
+}
+.big5-question15-neutral{
+  /* Neutral */
+  position: absolute;
+  width: 36px;
+  height: 14px;
+  left: 671px;
+  top: 1782px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+  color: #706F70;
+}
+.big5-question15-strongly-agree{
+  /* Strongly Agree */
+  position: absolute;
+  width: 66px;
+  height: 14px;
+  left: 836px;
+  top: 1782px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+  color: #706F70;
+}
+.big5-question15-button-1{
+  /* Rectangle 2.75 */
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 464px;
+  top: 1748px;
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+.big5-question15-button-2{
+  /* Rectangle 2.76 */
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 554px;
+  top: 1748px;
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+.big5-question15-button-3{
+  /* Rectangle 2.77 */
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 644px;
+  top: 1748px;
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+.big5-question15-button-4{
+  /* Rectangle 2.78 */
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 734px;
+  top: 1748px;
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+.big5-question15-button-5{
+  /* Rectangle 2.79 */
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 824px;
+  top: 1748px;
+  border: 0.5px solid #C4C4C4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+.big5-question15-button-1-text{
+  /* 1 */
+  position: absolute;
+  width: 9px;
+  height: 30px;
+  left: 504px;
+  top: 1748px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+  color: #565151;
+}
+.big5-question15-button-2-text{
+  /* 2 */
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 593px;
+  top: 1748px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+  color: #565151;
+}
+.big5-question15-button-3-text{
+  /* 3 */
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 683px;
+  top: 1748px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+  color: #565151;
+}
+.big5-question15-button-4-text{
+  /* 4 */
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 772px;
+  top: 1748px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+  color: #565151;
+}
+.big5-question15-button-5-text{
+  /* 5 */
+  position: absolute;
+  width: 15px;
+  height: 30px;
+  left: 863px;
+  top: 1748px;
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+  color: #565151;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Group 16 */
+.big5-question16-group {
+  position: absolute;
+  width: 553px;
+  height: 75px;
+  left: 366px;
+  top: 1826px;
+}
+
+/* 16. I keep in the background */
+
+.big5-question16 {
+  position: absolute;
+  width: 180px;
+  height: 18px;
+  left: 366px;
+  top: 1826px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: deeppink;//#706f70;
+}
+
+/* Strongly Disagree */
+
+.big5-question16-strongly-disagree {
+  position: absolute;
+  width: 80px;
+  height: 14px;
+  left: 474px;
+  top: 1887px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706f70;
+}
+
+/* Neutral */
+
+.big5-question16-neutral {
+  position: absolute;
+  width: 36px;
+  height: 14px;
+  left: 676px;
+  top: 1887px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706f70;
+}
+
+/* Strongly Agree */
+
+.big5-question16-strongly-agree {
+  position: absolute;
+  width: 66px;
+  height: 14px;
+  left: 841px;
+  top: 1887px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706f70;
+}
+
+/* Rectangle 2.80 */
+
+.big5-question16-button-1 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 469px;
+  top: 1853px;
+
+  border: 0.5px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.81 */
+
+.big5-question16-button-2 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 559px;
+  top: 1853px;
+
+  border: 0.5px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.82 */
+
+.big5-question16-button-3 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 649px;
+  top: 1853px;
+
+  border: 0.5px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.83 */
+.big5-question16-button-4 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 739px;
+  top: 1853px;
+
+  border: 0.5px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.84 */
+.big5-question16-button-5 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 829px;
+  top: 1853px;
+
+  border: 0.5px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* 1 */
+
+.big5-question16-button-1-text {
+  position: absolute;
+  width: 9px;
+  height: 30px;
+  left: 509px;
+  top: 1853px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+/* 2 */
+
+.big5-question16-button-2-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 598px;
+  top: 1853px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+/* 3 */
+.big5-question16-button-3-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 688px;
+  top: 1853px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+/* 4 */
+
+.big5-question16-button-4-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 777px;
+  top: 1853px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+/* 5 */
+.big5-question16-button-5-text {
+  position: absolute;
+  width: 11px;
+  height: 30px;
+  left: 868px;
+  top: 1853px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+
+
+
+
+
+
+
+/* Group 17 */
+.big5-question17-group {
+  position: absolute;
+  width: 551px;
+  height: 75px;
+  left: 366px;
+  top: 1931px;
+}
+
+/* 17. I am not really interested in others */
+
+.big5-question17 {
+  position: absolute;
+  width: 247px;
+  height: 18px;
+  left: 366px;
+  top: 1931px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: deeppink;//#706f70;
+}
+
+/* Strongly Disagree */
+
+.big5-question17-strongly-disagree {
+  position: absolute;
+  width: 80px;
+  height: 14px;
+  left: 472px;
+  top: 1992px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706f70;
+}
+
+/* Neutral */
+
+.big5-question17-neutral {
+  position: absolute;
+  width: 36px;
+  height: 14px;
+  left: 674px;
+  top: 1992px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706f70;
+}
+
+/* Strongly Agree */
+
+.big5-question17-strongly-agree {
+  position: absolute;
+  width: 66px;
+  height: 14px;
+  left: 839px;
+  top: 1992px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706f70;
+}
+
+/* Rectangle 2.85 */
+
+.big5-question17-button-1 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 467px;
+  top: 1958px;
+
+  border: 0.5px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.86 */
+.big5-question17-button-2 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 557px;
+  top: 1958px;
+
+  border: 0.5px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.87 */
+.big5-question17-button-3 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 647px;
+  top: 1958px;
+
+  border: 0.5px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+/* Rectangle 2.88 */
+
+.big5-question17-button-4 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 737px;
+  top: 1958px;
+
+  border: 0.5px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.89 */
+
+.big5-question17-button-5 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 827px;
+  top: 1958px;
+
+  border: 0.5px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* 1 */
+.big5-question17-button-1-text {
+  position: absolute;
+  width: 9px;
+  height: 30px;
+  left: 507px;
+  top: 1958px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+/* 2 */
+
+.big5-question17-button-2-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 596px;
+  top: 1958px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+/* 3 */
+
+.big5-question17-button-3-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 686px;
+  top: 1958px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+/* 4 */
+
+.big5-question17-button-4-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 775px;
+  top: 1958px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+/* 5 */
+.big5-question17-button-5-text {
+  position: absolute;
+  width: 11px;
+  height: 30px;
+  left: 866px;
+  top: 1958px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+
+
+
+
+/* Group 18 */
+.big5-question18-group {
+  position: absolute;
+  width: 553px;
+  height: 75px;
+  left: 366px;
+  top: 2036px;
+}
+
+/* 18. I make a mess of things */
+.big5-question18 {
+  position: absolute;
+  width: 182px;
+  height: 18px;
+  left: 366px;
+  top: 2036px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: deeppink;//#706f70;
+}
+
+/* Strongly Disagree */
+
+.big5-question18-strongly-disagree {
+  position: absolute;
+  width: 80px;
+  height: 14px;
+  left: 474px;
+  top: 2097px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706f70;
+}
+
+/* Neutral */
+
+.big5-question18-neutral {
+  position: absolute;
+  width: 36px;
+  height: 14px;
+  left: 676px;
+  top: 2097px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706f70;
+}
+
+/* Strongly Agree */
+
+.big5-question18-strongly-agree {
+  position: absolute;
+  width: 66px;
+  height: 14px;
+  left: 841px;
+  top: 2097px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706f70;
+}
+
+/* Rectangle 2.90 */
+
+.big5-question18-button-1 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 469px;
+  top: 2063px;
+
+  border: 0.5px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.91 */
+
+.big5-question18-button-2 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 559px;
+  top: 2063px;
+
+  border: 0.5px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.92 */
+.big5-question18-button-3 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 649px;
+  top: 2063px;
+
+  border: 0.5px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.93 */
+.big5-question18-button-4 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 739px;
+  top: 2063px;
+
+  border: 0.5px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.94 */
+
+.big5-question18-button-5 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 829px;
+  top: 2063px;
+
+  border: 0.5px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* 1 */
+.big5-question18-button-1-text {
+  position: absolute;
+  width: 9px;
+  height: 30px;
+  left: 509px;
+  top: 2063px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+/* 2 */
+
+.big5-question18-button-2-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 598px;
+  top: 2063px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+/* 3 */
+
+.big5-question18-button-3-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 688px;
+  top: 2063px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+/* 4 */
+
+.big5-question18-button-4-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 777px;
+  top: 2063px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+/* 5 */
+
+.big5-question18-button-5-text {
+  position: absolute;
+  width: 11px;
+  height: 30px;
+  left: 868px;
+  top: 2063px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+
+
+
+
+/* Group 19 */
+
+.big5-question19-group {
+  position: absolute;
+  width: 550px;
+  height: 75px;
+  left: 366px;
+  top: 2141px;
+}
+
+/* 19. I seldom feel blue */
+
+.big5-question19 {
+  position: absolute;
+  width: 137px;
+  height: 18px;
+  left: 366px;
+  top: 2141px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: deeppink;//#706f70;
+}
+
+/* Strongly Disagree */
+
+.big5-question19-strongly-disagree {
+  position: absolute;
+  width: 80px;
+  height: 14px;
+  left: 471px;
+  top: 2202px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706f70;
+}
+
+/* Neutral */
+
+.big5-question19-neutral {
+  position: absolute;
+  width: 36px;
+  height: 14px;
+  left: 673px;
+  top: 2202px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706f70;
+}
+
+/* Strongly Agree */
+
+.big5-question19-strongly-agree {
+  position: absolute;
+  width: 66px;
+  height: 14px;
+  left: 838px;
+  top: 2202px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706f70;
+}
+
+/* Rectangle 2.95 */
+
+.big5-question19-button-1 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 466px;
+  top: 2168px;
+
+  border: 0.5px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.96 */
+
+.big5-question19-button-2 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 556px;
+  top: 2168px;
+
+  border: 0.5px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.97 */
+.big5-question19-button-3 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 646px;
+  top: 2168px;
+
+  border: 0.5px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.98 */
+
+.big5-question19-button-4 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 736px;
+  top: 2168px;
+
+  border: 0.5px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.99 */
+
+.big5-question19-button-5 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 826px;
+  top: 2168px;
+
+  border: 0.5px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* 1 */
+
+.big5-question19-button-1-text {
+  position: absolute;
+  width: 9px;
+  height: 30px;
+  left: 506px;
+  top: 2168px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+/* 2 */
+
+.big5-question19-button-2-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 595px;
+  top: 2168px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+/* 3 */
+
+.big5-question19-button-3-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 685px;
+  top: 2168px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+/* 4 */
+
+.big5-question19-button-4-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 774px;
+  top: 2168px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+/* 5 */
+
+.big5-question19-button-5-text {
+  position: absolute;
+  width: 11px;
+  height: 30px;
+  left: 865px;
+  top: 2168px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+
+
+
+
+/* Group 20 */
+
+.big5-question20-group {
+  position: absolute;
+  width: 552px;
+  height: 75px;
+  left: 366px;
+  top: 2246px;
+}
+
+/* 20. I do not have a good imagination */
+
+.big5-question20 {
+  position: absolute;
+  width: 229px;
+  height: 18px;
+  left: 366px;
+  top: 2246px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: deeppink;//#706f70;
+}
+
+/* Strongly Disagree */
+
+.big5-question20-strongly-disagree {
+  position: absolute;
+  width: 80px;
+  height: 14px;
+  left: 473px;
+  top: 2307px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706f70;
+}
+
+/* Neutral */
+
+.big5-question20-neutral {
+  position: absolute;
+  width: 36px;
+  height: 14px;
+  left: 675px;
+  top: 2307px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706f70;
+}
+
+/* Strongly Agree */
+
+.big5-question20-strongly-agree {
+  position: absolute;
+  width: 66px;
+  height: 14px;
+  left: 840px;
+  top: 2307px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #706f70;
+}
+
+/* Rectangle 2.100 */
+
+.big5-question20-button-1 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 468px;
+  top: 2273px;
+
+  border: 0.5px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.101 */
+
+.big5-question20-button-2 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 558px;
+  top: 2273px;
+
+  border: 0.5px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.102 */
+
+.big5-question20-button-3 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 648px;
+  top: 2273px;
+
+  border: 0.5px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.103 */
+
+.big5-question20-button-4 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 738px;
+  top: 2273px;
+
+  border: 0.5px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* Rectangle 2.104 */
+
+.big5-question20-button-5 {
+  position: absolute;
+  width: 90px;
+  height: 30px;
+  left: 828px;
+  top: 2273px;
+
+  border: 0.5px solid #c4c4c4;
+  box-sizing: border-box;
+  border-radius: 2px;
+
+  background-color: white;
+}
+
+/* 1 */
+
+.big5-question20-button-1-text {
+  position: absolute;
+  width: 9px;
+  height: 30px;
+  left: 508px;
+  top: 2273px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+/* 2 */
+
+.big5-question20-button-2-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 597px;
+  top: 2273px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+/* 3 */
+
+.big5-question20-button-3-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 687px;
+  top: 2273px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+/* 4 */
+
+.big5-question20-button-4-text {
+  position: absolute;
+  width: 12px;
+  height: 30px;
+  left: 776px;
+  top: 2273px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+/* 5 */
+
+.big5-question20-button-5-text {
+  position: absolute;
+  width: 11px;
+  height: 30px;
+  left: 867px;
+  top: 2273px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 30px;
+
+  color: #565151;
+}
+
+
+
+
+/* Rectangle 2.8 */
+.big5-button {
+  position: absolute;
+  width: 96px;
+  height: 26px;
+  left: 597px;
+  top: 2371px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 20px;
+  text-align: center;
+
+  background-color: white;
+  color: deeppink;
+  border: 1.5px solid deeppink;
+
+  border-radius: 4px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+.values-button:hover {
+  background-color: deeppink;
+  color: white;
+}
+
+
+/* Group 4.2 */
+.big5-bottom-navbar {
+  position: absolute;
+  width: 716.94px;
+  height: 106px;
+  left: 284px;
+  top: 2452px;
+}
+
+
+
+
+
+
+
+.thank-you-inner-border-header {
+  position: absolute;
+  width: 220px;
+  height: 17px;
+  left: 543px;
+  top: 281px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 13px;
+
+  color: #000000;
+}
+

@@ -1,0 +1,1 @@
+export goorooLogo from './icons/GoorooLogo.png'

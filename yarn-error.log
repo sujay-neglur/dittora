@@ -1,0 +1,118 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\Suyash\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js run build
+
+PATH: 
+  C:\Users\Suyash\gcc\libexec\gcc\x86_64-w64-mingw32\7.2.0;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\nodejs\;C:\cygwin64\bin;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\sbt\bin;C:\Program Files\Java\jdk1.8.0_151\bin;C:\Program Files\Git\cmd;C:\Users\Suyash\Anaconda3;C:\Users\Suyash\Anaconda3\Library\mingw-w64\bin;C:\Users\Suyash\Anaconda3\Library\usr\bin;C:\Users\Suyash\Anaconda3\Library\bin;C:\Users\Suyash\Anaconda3\Scripts;C:\Users\Suyash\AppData\Local\Microsoft\WindowsApps;C:\Users\Suyash\AppData\Roaming\npm;C:\Users\Suyash\gcc\bin;C:\cygwin64\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files (x86)\heroku\bin;C:\Program Files\Git\bin;
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  8.9.3
+
+Platform: 
+  win32 x64
+
+npm manifest: 
+  {
+    "name": "IndecisionApp",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Suyash Malthankar",
+    "license": "MIT",
+    "proxy": "http://172.30.49.66:3000",
+    "scripts": {
+      "serve": "live-server public/",
+      "build": "webpack",
+      "dev-server": "webpack-dev-server",
+      "start": "nodemon server/server/server.js"
+    },
+    "dependencies": {
+      "axios": "^0.18.0",
+      "babel-cli": "6.26.0",
+      "babel-core": "6.25.0",
+      "babel-plugin-react-svg": "^2.1.0",
+      "babel-preset-env": "1.5.2",
+      "babel-preset-react": "6.24.1",
+      "bcrypt": "^3.0.1",
+      "bcryptjs": "^2.4.3",
+      "body-parser": "^1.18.3",
+      "bootstrap": "3.3.7",
+      "create-react-class": "15.6.3",
+      "css-loader": "^0.28.4",
+      "csvtojson": "^2.0.8",
+      "express": "^4.16.3",
+      "file-loader": "^2.0.0",
+      "global": "^4.3.2",
+      "immutability-helper": "^2.8.1",
+      "jquery": "^3.3.1",
+      "jsonwebtoken": "^8.3.0",
+      "live-server": "^1.2.0",
+      "lodash": "^4.17.11",
+      "lodash.flow": "^3.5.0",
+      "moment": "2.22.2",
+      "mongoose": "^5.2.17",
+      "node-sass": "4.5.3",
+      "nodemailer": "^4.6.8",
+      "nodemon": "^1.18.7",
+      "normalize.css": "7.0.0",
+      "popper.js": "^1.14.4",
+      "preact": "^8.3.1",
+      "prop-types": "^15.6.2",
+      "react": "16.4.2",
+      "react-addons-css-transition-group": "^15.6.2",
+      "react-bootstrap": "^0.32.4",
+      "react-bootstrap-dropdown-menu": "^1.1.15",
+      "react-date-picker-cs": "^0.1.28",
+      "react-datepicker": "1.6.0",
+      "react-dnd": "^5.0.0",
+      "react-dom": "16.3.1",
+      "react-drag-and-drop": "^2.4.0",
+      "react-draggable": "^3.0.5",
+      "react-infinite-calendar": "^2.3.1",
+      "react-modal": "2.2.2",
+      "react-redux": "^5.1.0",
+      "react-router": "^4.3.1",
+      "react-router-dom": "4.3.1",
+      "react-slider": "^0.11.2",
+      "reactstrap": "^6.4.0",
+      "redux": "^4.0.1",
+      "sass-loader": "6.0.6",
+      "semantic-ui-react": "0.82.5",
+      "style-loader": "^0.18.2",
+      "url-loader": "^1.1.1",
+      "uuid": "^3.3.2",
+      "validator": "^10.8.0",
+      "webpack": "3.1.0",
+      "webpack-dev-server": "^2.5.1"
+    },
+    "devDependencies": {
+      "@babel/core": "^7.1.2",
+      "@babel/plugin-proposal-object-rest-spread": "^7.0.0",
+      "babel-loader": "^7.1.1",
+      "babel-plugin-transform-object-rest-spread": "^6.26.0",
+      "webpack-cli": "^3.1.2"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Command failed.
+  Exit code: 3221225477
+  Command: C:\WINDOWS\system32\cmd.exe
+  Arguments: /d /s /c webpack
+  Directory: C:\Users\Suyash\WebstormProjects\ReactCourse\Dittora-Dev
+  Output:
+  
+      at ProcessTermError.MessageError (C:\Users\Suyash\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:186:110)
+      at new ProcessTermError (C:\Users\Suyash\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:226:113)
+      at ChildProcess.<anonymous> (C:\Users\Suyash\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:30281:17)
+      at emitTwo (events.js:126:13)
+      at ChildProcess.emit (events.js:214:7)
+      at maybeClose (internal/child_process.js:925:16)
+      at Process.ChildProcess._handle.onexit (internal/child_process.js:209:5)

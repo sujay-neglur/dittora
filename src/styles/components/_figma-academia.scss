@@ -1,0 +1,1592 @@
+/* how-to-draw-trees-final */
+.university-logo {
+  position: absolute;
+  width: 237px;
+  height: 138px;
+  left: 521px;
+  top: 47px;
+
+  //background: url(how-to-draw-trees-final.jpg);
+  mix-blend-mode: multiply;
+}
+
+/* image */
+
+/*
+position: absolute;
+width: 237px;
+height: 138px;
+left: 521px;
+top: 47px;
+
+background: url(image.png);
+mix-blend-mode: multiply;
+*/
+
+
+
+
+
+
+/* Let’s talk about your Academic Status... */
+.academia1-border-header {
+  position: absolute;
+  width: 330px;
+  height: 24px;
+  left: 475px;
+  top: 184px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 24px;
+  text-align: center;
+
+  color: #000000;
+}
+
+/* Rectangle */
+.academia1-border {
+  position: absolute;
+  width: 385px;
+  height: 132px;
+  left: 434px;
+  top: 254px;
+
+  border: 1px solid #F1EAEA;
+  box-sizing: border-box;
+  border-radius: 2px;
+}
+
+/* Are you currently a student? */
+.academia1-inner-border-header {
+  position: absolute;
+  width: 167px;
+  height: 17px;
+  left: 543px;
+  top: 281px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 13px;
+
+  color: #000000;
+}
+
+/* Rectangle 2.1 */
+.academia1-button-1 {
+  position: absolute;
+  width: 96px;
+  height: 26px;
+  left: 0px;
+  top: 0px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+  //padding-bottom: 4px;
+
+  background-color: white;
+  color: deeppink;
+  border: 1.5px solid deeppink;
+
+  border-radius: 4px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+.academia1-button-1:hover {
+  background-color: deeppink;
+  color: white;
+}
+
+.academia1-button-1-div {
+  position: absolute;
+  width: 96px;
+  height: 26px;
+  left: 516px;
+  top: 327px;
+}
+
+/* Rectangle 2 */
+.academia1-button-2 {
+  position: absolute;
+  width: 96px;
+  height: 26px;
+  left: 0px;
+  top: 0px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+  background-color: white;
+  color: deeppink;
+  border: 1.5px solid deeppink;
+
+  border-radius: 4px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+.academia1-button-2:hover {
+  background-color: deeppink;
+  color: white;
+}
+
+.academia1-button-2-div {
+  position: absolute;
+  width: 96px;
+  height: 26px;
+  left: 642px;
+  top: 327px;
+}
+
+
+
+// Academia - 2
+
+/* Rectangle */
+.academia2-border {
+  position: absolute;
+  width: 470px;
+  height: 155px;
+  left: 405px;
+  top: 240px;
+
+  border: 1px solid #F1EAEA;
+  box-sizing: border-box;
+  border-radius: 2px;
+}
+
+/* What type of student are you? */
+.academia2-inner-border-header {
+  position: absolute;
+  width: 179px;
+  height: 17px;
+  left: 550px;
+  top: 259px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 13px;
+
+  color: #000000;
+}
+
+/* Rectangle 2.3 */
+.academia2-button-1{
+  position: absolute;
+  width: 127px;
+  height: 35px;
+  left: 515px;
+  top: 294px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 24px;
+  text-align: center;
+
+  background-color: white;
+  color: deeppink;
+  border: 1.5px solid deeppink;
+
+  border-radius: 4px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+.academia2-button-1:hover {
+  background-color: deeppink;
+  color: white;
+}
+
+.academia2-button-2{
+  position: absolute;
+  width: 127px;
+  height: 35px;
+  left: 661px;
+  top: 294px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 24px;
+  text-align: center;
+
+  background-color: white;
+  color: deeppink;
+  border: 1.5px solid deeppink;
+
+  border-radius: 4px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+.academia2-button-2:hover {
+  background-color: deeppink;
+  color: white;
+}
+
+
+.academia2-button-3{
+  position: absolute;
+  width: 127px;
+  height: 35px;
+  left: 515px;
+  top: 339px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 24px;
+  text-align: center;
+
+  background-color: white;
+  color: deeppink;
+  border: 1.5px solid deeppink;
+
+  border-radius: 4px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+.academia2-button-3:hover {
+  background-color: deeppink;
+  color: white;
+}
+
+
+.academia2-button-4{
+  position: absolute;
+  width: 127px;
+  height: 35px;
+  left: 661px;
+  top: 339px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+  background-color: white;
+  color: deeppink;
+  border: 1.5px solid deeppink;
+
+  border-radius: 4px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+.academia2-button-4:hover {
+  background-color: deeppink;
+  color: white;
+}
+
+/* Rectangle 2.1 */
+.academia2-button {
+  position: absolute;
+  width: 100px;
+  height: 30px;
+  left: 592px;
+  top: 450px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+  background-color: white;
+  color: deeppink;
+  border: 1.5px solid deeppink;
+
+  border-radius: 4px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+.academia2-button:hover {
+  background-color: deeppink;
+  color: white;
+}
+
+/* What is your highest academic achievement? */
+.academia6-inner-border-header {
+  position: absolute;
+  width: 285px;
+  height: 17px;
+  left: 512px;
+  top: 253px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 14px;
+
+  color: #000000;
+}
+
+
+
+// Academia 4 //
+
+
+/* Rectangle */
+.academia4-border {
+  position: absolute;
+  width: 1044px;
+  height: 390px;
+  left: 121px;
+  top: 223px;
+
+  border: 1px solid #F1EAEA;
+  box-sizing: border-box;
+  border-radius: 2px;
+}
+
+
+/* Fill in the blank */
+.academia4-border-small-header {
+  position: absolute;
+  width: 87px;
+  height: 15px;
+  left: 121px;
+  top: 208px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 200;
+  line-height: normal;
+  font-size: 12px;
+
+  color: #000000;
+}
+
+
+/* Today, I’m an */
+.academia4-text-1 {
+  position: absolute;
+  width: 76px;
+  height: 16px;
+  left: 142px;
+  top: 260px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 13px;
+
+  color: #000000;
+}
+
+/* Line */
+.academia4-line-1 {
+  position: absolute;
+  width: 150px;
+  height: 30px;
+  left: 221px;
+  top: 245.5px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+  border:none;
+  border-bottom: 0.75px solid #C4C3C3;
+
+  pointer-events:none;
+}
+
+/* student, at */
+.academia4-text-2 {
+  position: absolute;
+  width: 62px;
+  height: 16px;
+  left: 378px;
+  top: 260px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 13px;
+
+  color: #000000;
+}
+
+/* Line */
+.academia-university-name {
+  position: absolute;
+  width: 150px;
+  height: 20px;
+  left: 450px;
+  top: 255px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 20px;
+  text-align: center;
+  color: #DD417C; //#706F70 !important;
+
+  border:none;
+  border-bottom: 0.75px solid #C4C3C3;
+}
+
+
+/* I’m currently */
+.academia-text-3 {
+  position: absolute;
+  width: 72px;
+  height: 16px;
+  left: 142px;
+  top: 310px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 13px;
+
+  color: #000000;
+}
+
+/* Line */
+.academia-line-2 {
+  position: absolute;
+  width: 150px;
+  height: 10px;
+  left: 221px;
+  top: 305px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+  //border: 0.75px solid #C4C3C3;
+}
+
+
+
+
+/* in */
+.academia-text-4 {
+  position: absolute;
+  width: 11px;
+  height: 16px;
+  left: 379px;
+  top: 310px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 13px;
+
+  color: #000000;
+}
+
+
+
+/* Rectangle 2 */
+.academia-type-of-degree {
+  position: absolute;
+  width: 134px;
+  height: 27px;
+  left: 403px;
+  top: 305px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+
+  /*background: #FBFBFB;
+  border: 1px solid #DD417C;
+  box-sizing: border-box;
+  border-radius: 4px;*/
+}
+
+
+
+/* Industrial Engineering */
+.academia-program-name {
+
+  position: absolute;
+  width: 145px;
+  height: 20px;
+  left: 555px;
+  top: 306px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 20px;
+  text-align: center;
+
+  color: #DD417C;
+
+  border:none;
+  border-bottom: 0.75px solid #C4C3C3;
+
+}
+
+/* Rectangle 2.1 */
+.academia-add-more-button {
+  position: absolute;
+  width: 79px;
+  height: 22px;
+  left: 733px;
+  top: 304px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 20px;
+  text-align: center;
+
+  background: #FC6767;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  box-shadow: 0px 4px 46px rgba(0, 0, 0, 0.25);
+  border-radius: 4px;
+}
+
+
+/* Vector 3 */
+.academia-balloon {
+  position: absolute;
+  width: 309px;
+  height: 52px;
+  left: 777px;
+  top: 237px;
+
+  //border: 1px solid rgba(0, 0, 0, 0.22);
+}
+
+
+/* Vector */
+.academia-arrow {
+  position: absolute;
+  width: 52.21px;
+  height: 31.71px;
+  left: 824.4px;
+  top: 286.73px;
+
+  //border: 1px solid #000000;
+}
+
+
+/* I’m currently */
+.academia-text-3-two {
+  position: absolute;
+  width: 72px;
+  height: 16px;
+  left: 142px;
+  top: 360px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 13px;
+
+  color: #000000;
+}
+
+/* Line */
+.academia-line-2-two {
+  position: absolute;
+  width: 150px;
+  height: 10px;
+  left: 221px;
+  top: 355px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+  //border: 0.75px solid #C4C3C3;
+}
+
+
+
+
+/* in */
+.academia-text-4-two {
+  position: absolute;
+  width: 11px;
+  height: 16px;
+  left: 379px;
+  top: 360px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 13px;
+
+  color: #000000;
+}
+
+
+
+/* Rectangle 2 */
+.academia-type-of-degree-two {
+  position: absolute;
+  width: 134px;
+  height: 27px;
+  left: 403px;
+  top: 355px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+
+  /*background: #FBFBFB;
+  border: 1px solid #DD417C;
+  box-sizing: border-box;
+  border-radius: 4px;*/
+}
+
+
+
+/* Industrial Engineering */
+.academia-program-name-two {
+
+  position: absolute;
+  width: 145px;
+  height: 20px;
+  left: 555px;
+  top: 356px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 20px;
+  text-align: center;
+
+  color: #DD417C;
+
+  border:none;
+  border-bottom: 0.75px solid #C4C3C3;
+
+}
+
+
+
+/* I started */
+.academia-text-5 {
+  position: absolute;
+  width: 48px;
+  height: 16px;
+  left: 142px;
+  top: 399px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 13px;
+
+  color: #000000;
+}
+
+/* Line */
+.academia-start-date {
+  position: absolute;
+  width: 135px !important;
+  height: 0px;
+  left: 202px;
+  top: 391px;
+
+  //border: 0.75px solid #C4C3C3;
+}
+
+/* and I expect to graduate by */
+.academia-text-6 {
+  position: absolute;
+  width: 156px;
+  height: 16px;
+  left: 385px;
+  top: 399px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 13px;
+
+  color: #000000;
+}
+
+/* Line */
+.academia-end-date {
+  position: absolute;
+  width: 150px;
+  height: 0px;
+  left: 545px;
+  top: 391px;
+
+  //border: 0.75px solid #C4C3C3;
+}
+
+/* My cumulative GPA is */
+.academia-text-7 {
+  position: absolute;
+  width: 125px;
+  height: 16px;
+  left: 732px;
+  top: 399px;
+
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 13px;
+
+  color: #000000;
+}
+
+/* Line */
+.academia-gpa-obtained {
+  position: absolute;
+  width: 52px;
+  height: 20px;
+  left: 862px;
+  top: 391px;
+
+  border:none;
+  border-bottom: 0.75px solid #C4C3C3;
+}
+
+/* / */
+.academia-slash {
+  position: absolute;
+  width: 8px;
+  height: 22px;
+  left: 922px;
+  top: 393px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 18px;
+
+  color: #000000;
+}
+
+
+
+
+
+/* Line */
+.academia-gpa-total {
+  position: absolute;
+  width: 52px;
+  height: 20px;
+  left: 936px;
+  top: 391px;
+
+  border:none;
+  border-bottom: 0.75px solid #C4C3C3;
+}
+
+
+/* How satisfied are you with your program? */
+.academia-slider-1-text {
+  position: absolute;
+  width: 193px;
+  height: 29px;
+  left: 142px;
+  top: 445px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 12px;
+
+  color: #000000;
+}
+
+/* I hate it */
+.academia-slider-1-left {
+  position: absolute;
+  width: 61px;
+  height: 18px;
+  left: 381px;
+  top: 444px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: #706F70;
+}
+
+/* Line */
+.academia-slider-1 {
+  position: absolute;
+  width: 569.01px;
+  height: 0px;
+  left: 467px;
+  top: 435px;
+
+  //border: 0.75px solid #C4C3C3;
+}
+
+/* I love it */
+.academia-slider-1-right {
+  position: absolute;
+  width: 53px;
+  height: 18px;
+  left: 1072px;
+  top: 444px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: #706F70;
+}
+
+/* How are your relationships with other people in your program? */
+.academia-slider-2-text {
+  position: absolute;
+  width: 173px;
+  height: 29px;
+  left: 142px;
+  top: 485px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 12px;
+
+  color: #000000;
+}
+
+
+/* I feel isolated and left out */
+.academia-slider-2-left {
+  position: absolute;
+  width: 95px;
+  height: 36px;
+  left: 364px;
+  top: 482px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: #706F70;
+}
+
+/* Line */
+.academia-slider-2 {
+  position: absolute;
+  width: 569.01px;
+  height: 0px;
+  left: 467px;
+  top: 490px;
+
+  //border: 0.75px solid #C4C3C3;
+}
+
+
+/* I feel that I belong here */
+.academia-slider-2-right {
+  position: absolute;
+  width: 95px;
+  height: 36px;
+  left: 1051px;
+  top: 482px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: #706F70;
+
+}
+
+/* How stressed do you feel throughout the semester? */
+.academia-slider-3-text {
+  position: absolute;
+  width: 173px;
+  height: 29px;
+  left: 142px;
+  top: 537px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 12px;
+
+  color: #000000;
+}
+
+
+/* I feel stressed all the time */
+.academia-slider-3-left {
+  position: absolute;
+  width: 95px;
+  height: 36px;
+  left: 364px;
+  top: 534px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: #706F70;
+}
+
+
+/* Line */
+.academia-slider-3 {
+  position: absolute;
+  width: 569.01px;
+  height: 0px;
+  left: 467px;
+  top: 542px;
+
+  //border: 0.75px solid #C4C3C3;
+}
+
+/* I feel relaxed most of the time */
+.academia-slider-3-right {
+  position: absolute;
+  width: 109px;
+  height: 54px;
+  left: 1044px;
+  top: 534px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: #706F70;
+}
+
+
+/* How would you rate your overall academic performance? */
+.academia-slider-4-text{
+  position: absolute;
+  width: 193px;
+  height: 29px;
+  left: 142px;
+  top: 400px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 12px;
+
+  color: #000000;
+}
+
+
+/* I did really bad */
+.academia-slider-4-left {
+  position: absolute;
+  width: 74px;
+  height: 36px;
+  left: 374px;
+  top: 400px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: #706F70;
+}
+
+
+/* Line */
+.academia-slider-4 {
+  position: absolute;
+  width: 569.01px;
+  height: 0px;
+  left: 467px;
+  top: 390px;
+
+  //border: 0.75px solid #C4C3C3;
+}
+
+
+
+/* I did really well */
+.academia-slider-4-right {
+  position: absolute;
+  width: 81px;
+  height: 36px;
+  left: 1058px;
+  top: 400px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 18px;
+  text-align: center;
+
+  color: #706F70;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Rectangle 2.1 */
+.academia-button {
+  position: absolute;
+  width: 96px;
+  height: 26px;
+  left: 572px;
+  top: 600px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+  background-color: white;
+  color: deeppink;
+  border: 1.5px solid deeppink;
+
+  border-radius: 4px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+.academia-button:hover {
+  background-color: deeppink;
+  color: white;
+}
+
+
+
+
+// Academia 5 & 8 //
+
+
+
+
+/* I was doing my */
+.academia-other-text-1 {
+  position: absolute;
+  width: 95px;
+  height: 16px;
+  left: 142px;
+  top: 249px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 13px;
+
+  color: #000000;
+}
+
+
+/* Line */
+.academia-other-line-1 {
+  position: absolute;
+  width: 150px;
+  height: 20px;
+  left: 260px;
+  top: 243.5px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+  border: none;
+  border-bottom: 0.75px solid #C4C3C3;
+}
+
+/* in */
+.academia-other-text-2 {
+  position: absolute;
+  width: 10px;
+  height: 16px;
+  left: 451px;
+  top: 249px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 13px;
+
+  color: #000000;
+}
+
+/* Line */
+.academia-other-graduate-program-name {
+  position: absolute;
+  width: 150px;
+  height: 20px;
+  left: 469px;
+  top: 245.5px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+  color: #DD417C;
+
+  border: none;
+  border-bottom: 0.75px solid #C4C3C3;
+}
+
+
+/* , at */
+.academia-other-text-3 {
+  position: absolute;
+  width: 18px;
+  height: 16px;
+  left: 658px;
+  top: 249px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 13px;
+
+  color: #000000;
+}
+
+
+/* Line */
+.academia-other-graduate-university-name {
+  position: absolute;
+  width: 180px;
+  height: 20px;
+  left: 705px;
+  top: 245.5px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+  color: #DD417C;
+
+  border: none;
+  border-bottom: 0.75px solid #C4C3C3;
+}
+
+/* When I was an undergraduate, I was */
+.academia-other-text-4 {
+  position: absolute;
+  width: 208px;
+  height: 16px;
+  left: 142px;
+  top: 297px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 13px;
+
+  color: #000000;
+}
+
+
+/* Line */
+.academia-other-engagement-type {
+  position: absolute;
+  width: 150px;
+  height: 0px;
+  left: 351px;
+  top: 287.5px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+  /*border: none;
+  border-bottom: 0.75px solid #C4C3C3;*/
+}
+
+
+/* in */
+.academia-other-text-5 {
+  position: absolute;
+  width: 10px;
+  height: 16px;
+  left: 514px;
+  top: 297px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 13px;
+
+  color: #000000;
+}
+
+/* Rectangle 2 */
+.academia-other-type-of-degree {
+  position: absolute;
+  width: 134px;
+  height: 27px;
+  left: 533px;
+  top: 287.5px;
+
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+
+  /*background: #FBFBFB;
+  border: 1px solid #DD417C;
+  box-sizing: border-box;
+  border-radius: 4px;*/
+}
+
+/* Line */
+.academia-other-program-name {
+  position: absolute;
+  width: 150px;
+  height: 20px;
+  left: 677px;
+  top: 290px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+  color: #DD417C;
+
+  border: none;
+  border-bottom: 0.75px solid #C4C3C3;
+}
+
+/* , at the */
+.academia-other-text-6 {
+  position: absolute;
+  width: 40px;
+  height: 16px;
+  left: 836px;
+  top: 297px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 13px;
+
+  color: #000000;
+}
+
+/* Line */
+.academia-other-university-name {
+  position: absolute;
+  width: 150px;
+  height: 20px;
+  left: 891px;
+  top: 290px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+  color: #DD417C;
+
+  border: none;
+  border-bottom: 0.75px solid #C4C3C3;
+}
+
+
+
+/* When I was an undergraduate, I was */
+.academia-other-text-4-two{
+  position: absolute;
+  width: 208px;
+  height: 16px;
+  left: 142px;
+  top: 340px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 13px;
+
+  color: #000000;
+}
+
+
+/* Line */
+.academia-other-engagement-type-two {
+  position: absolute;
+  width: 150px;
+  height: 0px;
+  left: 351px;
+  top: 330px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+  /*border: none;
+  border-bottom: 0.75px solid #C4C3C3;*/
+}
+
+
+/* in */
+.academia-other-text-5-two {
+  position: absolute;
+  width: 10px;
+  height: 16px;
+  left: 514px;
+  top: 340px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 13px;
+
+  color: #000000;
+}
+
+/* Rectangle 2 */
+.academia-other-type-of-degree-two {
+  position: absolute;
+  width: 134px;
+  height: 27px;
+  left: 533px;
+  top: 330px;
+
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+
+  /*background: #FBFBFB;
+  border: 1px solid #DD417C;
+  box-sizing: border-box;
+  border-radius: 4px;*/
+}
+
+/* Line */
+.academia-other-program-name-two {
+  position: absolute;
+  width: 150px;
+  height: 20px;
+  left: 677px;
+  top: 333px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+  color: #DD417C;
+
+  border: none;
+  border-bottom: 0.75px solid #C4C3C3;
+}
+
+/* , at the */
+.academia-other-text-6-two {
+  position: absolute;
+  width: 40px;
+  height: 16px;
+  left: 836px;
+  top: 340px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 13px;
+
+  color: #000000;
+}
+
+/* Line */
+.academia-other-university-name-two {
+  position: absolute;
+  width: 150px;
+  height: 20px;
+  left: 891px;
+  top: 333px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+  color: #DD417C;
+
+  border: none;
+  border-bottom: 0.75px solid #C4C3C3;
+}
+
+
+
+
+
+
+/* Vector 3 */
+.academia-other-balloon {
+  position: absolute;
+  width: 309px;
+  height: 52px;
+  left: 977px;
+  top: 225px;
+
+  //border: 1px solid rgba(0, 0, 0, 0.22);
+}
+
+
+/* Vector */
+.academia-other-arrow {
+  position: absolute;
+  width: 52.21px;
+  height: 31.71px;
+  left: 1130.4px;
+  top: 275.73px;
+
+  //border: 1px solid #000000;
+}
+
+/* Rectangle 2.1 */
+.academia-other-add-more-button {
+  position: absolute;
+  width: 79px;
+  height: 22px;
+  left: 1050px;
+  top: 290px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 20px;
+  text-align: center;
+
+  background: #FC6767;
+  border: 1px solid #000000;
+  box-sizing: border-box;
+  box-shadow: 0px 4px 46px rgba(0, 0, 0, 0.25);
+  border-radius: 4px;
+}
+

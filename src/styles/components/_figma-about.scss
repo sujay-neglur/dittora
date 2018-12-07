@@ -1,0 +1,249 @@
+/* Welcome, Antoine! */
+.about-header {
+  position: absolute;
+  width: 297px;
+  height: 50px;
+  left: 497px;
+  top: 80px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 48px;
+  text-align: center;
+
+  color: #000000;
+}
+
+
+
+
+
+
+
+/* Let’s start by filling in some information about you */
+.about-border-header{
+  position: absolute;
+  width: 400px;
+  height: 22px;
+  left: 468px;
+  top: 154px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 18px;
+
+  color: #000000;
+}
+
+
+.dude-with-bottle {
+  /* Group */
+  position: absolute;
+  width: 221.79px;
+  height: 301.67px;
+  left: 139px;
+  top: 209px;
+}
+
+/* Rectangle */
+.about-border {
+  position: absolute;
+  width: 385px;
+  height: 339px;
+  left: 468px;
+  top: 205px;
+
+  border: 1px solid #F1EAEA;
+  box-sizing: border-box;
+  border-radius: 2px;
+}
+
+/* Select your gender */
+.select-gender {
+  position: absolute;
+  width: 144px;
+  height: 22px;
+  left: 485px;
+  top: 232px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 17px;
+
+  color: #5B5A5A;
+
+
+}
+
+/* Line */
+.gender-input {
+  position: absolute;
+  width: 191px;
+  height: 0px;
+  left: 700px;
+  top: 225px;
+
+  /*border: 0px;
+  outline: 0px;*/
+  //border: 1px solid #D5D4D4;
+}
+
+
+
+/* What’s your ethinicity? */
+.ethnicity {
+
+
+  position: absolute;
+  width: 172px;
+  height: 22px;
+  left: 485px;
+  top: 300px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 17px;
+
+  color: #5B5A5A;
+
+}
+
+.ethnicity-input {
+  position: absolute;
+  width: 191px;
+  height: 0px;
+  left: 700px;
+  top: 295px;
+
+  /*border: 0px;
+  outline: 0px;*/
+  //border: 1px solid #D5D4D4;
+}
+
+/* When is your birthday? */
+.birthday {
+  position: absolute;
+  width: 175px;
+  height: 22px;
+  left: 485px;
+  top: 373px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 17px;
+
+  color: #5B5A5A;
+}
+
+.birthday-input {
+  position: absolute;
+  width: 140px;
+  height: 30px;
+  left: 700px;
+  top: 373px;
+
+  background-color: white;
+  color: deeppink;
+  border: 1.5px solid deeppink;
+
+  border-radius: 4px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+
+  //color: #FFFFFF;
+}
+
+
+.birthday-input:hover {
+  background-color: deeppink;
+  color: white;
+}
+
+.birthday-date-picker {
+  position: absolute;
+  width: 140px;
+  height: 30px;
+  left: 900px;
+  top: 180px;
+
+  /*border: 0px;
+  outline: 0px;*/
+  //border: 1px solid #D5D4D4;
+}
+
+/* Where do you live? */
+.city {
+  position: absolute;
+  width: 144px;
+  height: 22px;
+  left: 485px;
+  top: 486.5px;
+
+  font-family: Roboto;
+  font-style: italic;
+  font-weight: 300;
+  line-height: normal;
+  font-size: 17px;
+
+  color: #5B5A5A;
+}
+
+/* Line */
+.city-input {
+  position: absolute;
+  width: 191px;
+  height: 20px;
+  left: 646px;
+  top: 486.5px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+  border: none;
+  border-bottom: 1px solid #D5D4D4;
+}
+
+/* Rectangle 2 */
+.about-button{
+  position: absolute;
+  width: 100px;
+  height: 30px;
+  left: 596px;
+  top: 529px;
+
+  font-family: Reenie Beanie;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  font-size: 23px;
+  text-align: center;
+
+  background-color: white;
+  color: deeppink;
+  border: 1.5px solid deeppink;
+
+  border-radius: 4px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+
+.about-button:hover {
+  background-color: deeppink;
+  color: white;
+}
+
+
